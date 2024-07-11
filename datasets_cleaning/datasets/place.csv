@@ -5,592 +5,81 @@ PlaceID,PlaceName
 4,Griswold
 5,Manchester
 6,Bloomfield
-2,Greenwich
 7,Darien
-8,East Lyme
 8,East Lyme
 9,Bristol
 10,Kent
 11,Branford
 12,Bethlehem
 13,Killingly
-9,Bristol
-8,East Lyme
 14,East Granby
-6,Bloomfield
-8,East Lyme
 15,Cheshire
 16,Hartford
 17,East Haven
 18,Brookfield
-1,Groton
-14,East Granby
 19,Burlington
 20,Avon
 21,Guilford
 22,Eastford
-9,Bristol
 23,Farmington
-9,Bristol
 24,Berlin
-9,Bristol
-9,Bristol
-5,Manchester
 25,Beacon Falls
-17,East Haven
-15,Cheshire
-8,East Lyme
-23,Farmington
 26,Ansonia
-8,East Lyme
-2,Greenwich
-2,Greenwich
-7,Darien
-5,Manchester
-9,Bristol
-9,Bristol
 27,Lebanon
 28,Bethel
-20,Avon
-1,Groton
-18,Brookfield
 29,Canton
 30,East Hartford
-7,Darien
-26,Ansonia
 31,Danbury
-9,Bristol
-2,Greenwich
-1,Groton
-3,East Windsor
 32,Meriden
 33,Killingworth
-31,Danbury
-2,Greenwich
-5,Manchester
-16,Hartford
-23,Farmington
-6,Bloomfield
-13,Killingly
-4,Griswold
-2,Greenwich
-2,Greenwich
-6,Bloomfield
 34,Glastonbury
 35,Canaan
-16,Hartford
-30,East Hartford
-17,East Haven
-2,Greenwich
-7,Darien
 36,Madison
-33,Killingworth
-16,Hartford
-34,Glastonbury
-24,Berlin
-31,Danbury
-2,Greenwich
-16,Hartford
-15,Cheshire
-11,Branford
-24,Berlin
-2,Greenwich
-12,Bethlehem
-25,Beacon Falls
-16,Hartford
-9,Bristol
-5,Manchester
-7,Darien
 37,Colchester
 38,Bethany
-16,Hartford
-2,Greenwich
-36,Madison
-28,Bethel
-16,Hartford
-2,Greenwich
-29,Canton
 39,Enfield
-5,Manchester
-8,East Lyme
-39,Enfield
-2,Greenwich
-24,Berlin
-15,Cheshire
 40,Essex
 41,Mansfield
-2,Greenwich
-15,Cheshire
-16,Hartford
-24,Berlin
-18,Brookfield
-15,Cheshire
-36,Madison
-36,Madison
 42,Lyme
-21,Guilford
 43,Bozrah
-31,Danbury
-27,Lebanon
-2,Greenwich
-29,Canton
-36,Madison
-29,Canton
-12,Bethlehem
-6,Bloomfield
-5,Manchester
-23,Farmington
 44,Cromwell
-34,Glastonbury
-4,Griswold
-9,Bristol
-15,Cheshire
-11,Branford
-5,Manchester
-18,Brookfield
-31,Danbury
-2,Greenwich
-26,Ansonia
 45,Bridgeport
-36,Madison
-7,Darien
-20,Avon
-11,Branford
-2,Greenwich
-1,Groton
-28,Bethel
-20,Avon
-23,Farmington
-5,Manchester
 46,Derby
-9,Bristol
-11,Branford
-5,Manchester
 47,Hebron
 48,Coventry
-5,Manchester
-30,East Hartford
-6,Bloomfield
 49,East Haddam
 50,Easton
-28,Bethel
-11,Branford
-20,Avon
-11,Branford
-23,Farmington
-2,Greenwich
-2,Greenwich
-30,East Hartford
-21,Guilford
-37,Colchester
-25,Beacon Falls
-21,Guilford
-33,Killingworth
-9,Bristol
-20,Avon
-1,Groton
-23,Farmington
-30,East Hartford
-1,Groton
-2,Greenwich
-31,Danbury
-31,Danbury
-9,Bristol
 51,Bridgewater
-39,Enfield
-9,Bristol
-34,Glastonbury
-9,Bristol
-8,East Lyme
-41,Mansfield
-1,Groton
-24,Berlin
-15,Cheshire
-34,Glastonbury
-44,Cromwell
-26,Ansonia
-9,Bristol
-16,Hartford
-2,Greenwich
-16,Hartford
-23,Farmington
-24,Berlin
-8,East Lyme
-2,Greenwich
-5,Manchester
-6,Bloomfield
-18,Brookfield
-1,Groton
-26,Ansonia
-37,Colchester
-5,Manchester
-31,Danbury
-1,Groton
-28,Bethel
-26,Ansonia
-2,Greenwich
-39,Enfield
-18,Brookfield
-2,Greenwich
-30,East Hartford
-1,Groton
-15,Cheshire
 52,Fairfield
 53,Chaplin
-23,Farmington
 54,Deep River
 55,Haddam
-31,Danbury
 56,New Britain
-36,Madison
-21,Guilford
-31,Danbury
-9,Bristol
-23,Farmington
 57,Hamden
-7,Darien
-7,Darien
 58,Naugatuck
-45,Bridgeport
 59,Litchfield
-11,Branford
-57,Hamden
-36,Madison
-23,Farmington
-45,Bridgeport
-56,New Britain
-15,Cheshire
 60,Middletown
 61,Plainfield
 62,Marlborough
-15,Cheshire
-31,Danbury
 63,Ellington
-56,New Britain
 64,Clinton
-56,New Britain
-6,Bloomfield
-11,Branford
-28,Bethel
-57,Hamden
-24,Berlin
 65,Ridgefield
-52,Fairfield
 66,New Canaan
-9,Bristol
-57,Hamden
-58,Naugatuck
 67,Monroe
-58,Naugatuck
-21,Guilford
-31,Danbury
-31,Danbury
-57,Hamden
-23,Farmington
-58,Naugatuck
-52,Fairfield
-9,Bristol
 68,Ledyard
-52,Fairfield
-31,Danbury
-66,New Canaan
-15,Cheshire
-41,Mansfield
-21,Guilford
-55,Haddam
 69,New Fairfield
-52,Fairfield
-31,Danbury
-9,Bristol
-60,Middletown
-31,Danbury
-27,Lebanon
-57,Hamden
-9,Bristol
-13,Killingly
-45,Bridgeport
-58,Naugatuck
-45,Bridgeport
-34,Glastonbury
-56,New Britain
-11,Branford
-23,Farmington
-60,Middletown
-69,New Fairfield
-63,Ellington
-23,Farmington
-11,Branford
-41,Mansfield
 70,Canterbury
 71,Brooklyn
-60,Middletown
-63,Ellington
-34,Glastonbury
-49,East Haddam
-9,Bristol
-34,Glastonbury
-41,Mansfield
-29,Canton
-26,Ansonia
-57,Hamden
-68,Ledyard
-56,New Britain
-53,Chaplin
-45,Bridgeport
-13,Killingly
-31,Danbury
-56,New Britain
-56,New Britain
-23,Farmington
-50,Easton
-63,Ellington
-69,New Fairfield
-60,Middletown
-58,Naugatuck
-69,New Fairfield
-58,Naugatuck
-45,Bridgeport
-23,Farmington
-68,Ledyard
-7,Darien
-36,Madison
-56,New Britain
-31,Danbury
-52,Fairfield
-9,Bristol
-31,Danbury
-56,New Britain
-15,Cheshire
-34,Glastonbury
-52,Fairfield
-13,Killingly
-20,Avon
-60,Middletown
-69,New Fairfield
-15,Cheshire
-31,Danbury
-6,Bloomfield
-57,Hamden
-31,Danbury
-21,Guilford
-13,Killingly
-57,Hamden
-9,Bristol
-45,Bridgeport
-45,Bridgeport
-45,Bridgeport
-34,Glastonbury
-34,Glastonbury
-45,Bridgeport
-45,Bridgeport
-58,Naugatuck
-41,Mansfield
-45,Bridgeport
-31,Danbury
-57,Hamden
-66,New Canaan
-21,Guilford
-28,Bethel
-52,Fairfield
-52,Fairfield
-45,Bridgeport
 72,Norwich
-20,Avon
-58,Naugatuck
-9,Bristol
-69,New Fairfield
-20,Avon
-15,Cheshire
-45,Bridgeport
-13,Killingly
-9,Bristol
-56,New Britain
-28,Bethel
-9,Bristol
-31,Danbury
-57,Hamden
-9,Bristol
-45,Bridgeport
-26,Ansonia
-41,Mansfield
-31,Danbury
-45,Bridgeport
-46,Derby
-64,Clinton
-45,Bridgeport
-52,Fairfield
-57,Hamden
-31,Danbury
-9,Bristol
 73,Stamford
-73,Stamford
-7,Darien
-58,Naugatuck
-45,Bridgeport
-34,Glastonbury
 74,Hampton
-28,Bethel
-69,New Fairfield
-7,Darien
-24,Berlin
-31,Danbury
-45,Bridgeport
-59,Litchfield
-63,Ellington
 75,Morris
-31,Danbury
-57,Hamden
-67,Monroe
-55,Haddam
-52,Fairfield
-71,Brooklyn
-45,Bridgeport
-21,Guilford
-68,Ledyard
-45,Bridgeport
-7,Darien
-45,Bridgeport
-21,Guilford
-52,Fairfield
-9,Bristol
-11,Branford
-59,Litchfield
-34,Glastonbury
-11,Branford
-28,Bethel
-7,Darien
-56,New Britain
-15,Cheshire
-11,Branford
-63,Ellington
-44,Cromwell
-48,Coventry
-62,Marlborough
-31,Danbury
-46,Derby
-35,Canaan
-60,Middletown
-24,Berlin
-45,Bridgeport
-64,Clinton
-15,Cheshire
-57,Hamden
-20,Avon
-34,Glastonbury
-68,Ledyard
-56,New Britain
-59,Litchfield
-66,New Canaan
-38,Bethany
-36,Madison
-52,Fairfield
-9,Bristol
-6,Bloomfield
-57,Hamden
-60,Middletown
-45,Bridgeport
-52,Fairfield
-56,New Britain
-44,Cromwell
 76,Colebrook
 77,Bolton
-60,Middletown
-26,Ansonia
-57,Hamden
-21,Guilford
 78,Preston
-66,New Canaan
-73,Stamford
-57,Hamden
-60,Middletown
-52,Fairfield
-56,New Britain
-45,Bridgeport
-45,Bridgeport
-9,Bristol
-45,Bridgeport
-31,Danbury
-45,Bridgeport
-56,New Britain
-64,Clinton
-45,Bridgeport
-24,Berlin
-67,Monroe
 79,Barkhamsted
-45,Bridgeport
-56,New Britain
-60,Middletown
-26,Ansonia
-56,New Britain
-9,Bristol
-58,Naugatuck
-66,New Canaan
-52,Fairfield
-31,Danbury
-26,Ansonia
-45,Bridgeport
-24,Berlin
-15,Cheshire
 80,East Hampton
-9,Bristol
-19,Burlington
-34,Glastonbury
-40,Essex
-31,Danbury
-59,Litchfield
-23,Farmington
-72,Norwich
-7,Darien
-56,New Britain
-58,Naugatuck
-31,Danbury
 81,Granby
-45,Bridgeport
-31,Danbury
 82,New London
-44,Cromwell
-23,Farmington
-52,Fairfield
-68,Ledyard
-34,Glastonbury
-11,Branford
-11,Branford
-52,Fairfield
-23,Farmington
-9,Bristol
-57,Hamden
-13,Killingly
-45,Bridgeport
-6,Bloomfield
-71,Brooklyn
-46,Derby
-56,New Britain
-49,East Haddam
-28,Bethel
-23,Farmington
-62,Marlborough
-15,Cheshire
-49,East Haddam
-45,Bridgeport
-58,Naugatuck
-48,Coventry
-45,Bridgeport
-11,Branford
-52,Fairfield
-69,New Fairfield
-6,Bloomfield
-3,East Windsor
-45,Bridgeport
-19,Burlington
-24,Berlin
-21,Guilford
-31,Danbury
-56,New Britain
-58,Naugatuck
-28,Bethel
 83,Chester
 84,Goshen
-56,New Britain
-11,Branford
-56,New Britain
-73,Stamford

@@ -51,3 +51,12 @@ CREATE TABLE CrimeData (
     OtherCrimeDetails VARCHAR(255),  -- Placeholder for other crime-specific columns
     FOREIGN KEY (PlaceID) REFERENCES Place(PlaceID)
 );
+
+CREATE TABLE Pharmacy (
+    credentialid INT PRIMARY KEY,
+    name VARCHAR(255),
+    type VARCHAR(255),
+    fullcredentialcode VARCHAR(50),
+    PlaceID INT,
+    PlaceName VARCHAR(255)
+);
