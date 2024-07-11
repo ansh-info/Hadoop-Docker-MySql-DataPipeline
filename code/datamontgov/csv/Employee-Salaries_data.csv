@@ -1,0 +1,229 @@
+Department,Department_Name,Division,Gender,Base_Salary,Overtime_Pay,Longevity_Pay,Grade
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$93,986","$1,187.06","$2,452.94",N20
+ABS,Alcohol Beverage Services,ABS 85 Montrose,M,"$68,828.7375","$1,108.43",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,F,"$84,903.9612",$122.46,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,M,"$41,943.1365",$915.57,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,M,"$59,457.09","$2,349.19",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Stock Liquor and Wine Warehouse Operations,M,"$51,509.9832","$1,895.7",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,M,"$72,463",$308.82,"$1,396.88",14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$52,080.82","$1,791.42",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$52,456.0563","$2,287.77",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$42,277.68","$1,472.07",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,F,"$21,862",$107.54,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$58,877.7277","$5,992.54",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$72,559.2339",$456.28,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$62,607.6301","$1,674.66",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$70,643.76","$5,864.53",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$75,621","$11,131.12",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Potomac,M,"$68,435.09",$492.59,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$137,728",$0,$0,M2
+ABS,Alcohol Beverage Services,ABS 85 Purchasing,M,"$117,424",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$42,126.025","$3,154",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Administration,M,"$175,873",$0,$0,M2
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$64,829.58","$6,895.97",$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$69,805.575","$5,951.34",$0,N17
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",M,"$75,500",$0,$0,18
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,M,"$72,463",$509.8,"$1,177.55",14
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,F,"$72,463",$183.44,"$3,420.8",14
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$72,463",$142.59,$724.64,14
+BOE,Board of Elections,BOE 24 Director's Office,F,"$152,940",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$24,047.6555",$486.46,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Leisure World,M,"$98,228",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,M,"$51,349.4033",$354.42,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$59,288.86","$1,013.01",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,"$78,883.0226",$131.98,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,M,"$63,215.25","$5,331.03",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,F,"$107,367",$0,"$5,097.58",23
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,F,"$21,862",$164.05,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$72,463","$1,351.22","$5,733.78",14
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$89,432.694",$0,"$2,490",21
+BOA,Board of Appeals Department,BOA 02 Board of Appeals Division,F,"$86,103",$0,"$3,665.64",N18
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",M,"$77,452.155",$0,$0,18
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,F,"$27,031.164",$154.9,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$47,082.115",$267.56,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Montrose,F,"$62,607.6301","$1,110.23",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$48,575.6793",$240.87,$0,13
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,M,"$98,228",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,F,"$23,340.6395",$145.03,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$75,621.002","$15,190.42","$3,572.79",15
+ABS,Alcohol Beverage Services,ABS 85 Potomac,M,"$44,754.6895",$802.95,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$71,207.1769",$391.52,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$63,480.1621","$11,486.92",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$59,003.2323",$802.16,$0,13
+ABS,Alcohol Beverage Services,ABS 85 Administration,F,"$136,970",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$45,974.7155",$228.05,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$82,733.0916",$962.71,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$49,558.5358","$2,715.92",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,F,"$21,862",$77.27,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$110,572.155",$0,$0,N26
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$49,558.5358","$3,150.91",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Potomac,M,"$22,551.3425","$2,770.32",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,"$72,463",$475.6,$0,14
+BOE,Board of Elections,BOE 24 Director's Office,F,"$88,514.8779","$1,587.23",$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,F,"$22,627.17",$56.95,$0,12
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",M,"$117,424",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Potomac,M,"$21,862",$806.59,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$93,986","$21,857.36",$0,N20
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,M,"$24,047.6555",$295.69,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$46,681.279","$1,256.07",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,F,"$22,627.17",$23.52,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,M,"$62,820.332","$1,219.22",$0,14
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",F,"$94,334.247",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$86,103","$23,917.44","$3,665.64",N18
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",M,"$85,714.4272",$0,$0,22
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",F,"$98,349",$0,$0,22
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,"$27,969.1632",$37.81,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,M,"$66,083.4184","$3,066.55",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$66,572",$142.24,"$5,258.2",12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$69,101.6094","$5,227.31",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,F,"$68,473.5124",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,"$57,276.881",$156.41,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$98,228",$518.8,$998.28,21
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,F,"$117,424.005",$0,"$3,074.09",N25
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,M,"$41,943.6288",$267.73,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,F,"$21,862",$77.33,$0,12
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$98,228",$244.39,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,M,"$96,329.8444","$1,034.41",$0,N21
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$53,214.6496","$1,094.83",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$65,748.8722","$2,661.07",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$56,967.5537","$12,764.91",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,F,"$86,103",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Beer Loading,M,"$66,572","$3,148.64",$582.55,12
+BOE,Board of Elections,BOE 24 Absentee Voting,F,"$98,228",$0,"$7,017.18",21
+BOE,Board of Elections,BOE 24 Election Judge Recruitment,F,"$86,103",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$128,531",$0,$0,N27
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$68,130",$88.62,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572","$11,928.75","$5,258.13",12
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$94,713.3",$656.47,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,F,"$62,607.646",$172.78,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,F,"$45,974.7155",$180.84,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,"$21,862",$69.72,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$56,493.0104",$386.9,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,M,"$53,257.6",$113.26,"$4,332.4",12
+ABS,Alcohol Beverage Services,ABS 85 Administration,M,"$145,613.36",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$21,862",$125.44,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$82,405.3864",$549.2,$0,18
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$66,572","$7,000.21","$3,137.75",12
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,M,"$45,974.7317",$102.8,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,"$21,862",$268.41,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,"$23,340.6395",$178.75,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,M,"$31,656.1616",$0,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Westwood,F,"$63,215.24","$1,586.18",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$56,884.1676",$0,$0,15
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,F,"$21,862",$0,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,"$46,144.8795","$9,562.78",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,"$80,239.2046",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,F,"$45,974.7115",$528.85,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572","$3,032.57","$1,081.87",12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,M,"$24,779.5625",$999.65,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$152,632.07",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,F,"$64,060.9766",$886.16,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$61,240","$3,866.6","$2,881.5",10
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,F,"$98,228",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Leisure World,F,"$72,463.002","$4,680.01",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$117,424",$270.83,"$5,013.3",N25
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,"$23,340.6395",$58.08,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$55,968.2496","$2,535.85",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,"$46,144.8787","$3,653.65",$0,12
+BOE,Board of Elections,BOE 24 Director's Office,M,"$75,008",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$72,463","$2,123.92","$1,177.6",14
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572",$778.28,"$1,081.87",12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$43,724",$32.12,$0,13
+BOE,Board of Elections,BOE 24 Absentee Voting,F,"$78,947",$0,"$1,278.63",16
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,F,"$56,922.265","$6,156.95",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,F,"$41,943.6254",$260.08,$0,12
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$53,257.6",$469.12,"$4,607.03",12
+ABS,Alcohol Beverage Services,ABS 85 Westwood,F,"$77,645.6571",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,F,"$60,695.9736",$368.05,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Leisure World,F,"$44,754.6895","$1,577.22",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Stock Liquor and Wine Warehouse Operations,M,"$49,230",$684.2,$0,12
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",F,"$99,335.0745","$1,540.34",$0,22
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$175,861.23",$0,$0,M2
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,M,"$68,435.09",$871.21,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$59,006.7205","$2,195.05",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,M,"$90,375.0561",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,F,"$86,103",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Seneca Meadows,M,"$95,577.7529","$2,181.56",$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,F,"$62,781.9443","$1,056.16",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$52,641.5788",$971.42,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572","$5,333.48","$5,338.64",12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$82,436","$16,835.31",$0,N17
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$61,240","$5,294.68",$995.18,10
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,F,"$85,408.7344","$2,287.24",$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$117,424",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,M,"$45,974.7317","$3,165.35",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$46,425.4721","$2,092.35",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$42,277.68","$2,052.65",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$21,862",$0,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572","$3,137.14","$5,218.63",12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$68,888.9515","$7,059.41",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$44,693.4084","$1,000.49",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$61,240",$92.35,"$4,827.4",10
+ABS,Alcohol Beverage Services,ABS 85 Montrose,M,"$65,240.88","$2,650.46",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$58,877.7277",$518.79,$0,13
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$93,321.8756",$188.58,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,M,"$98,228",$0,"$4,186.89",N21
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$21,862",$1.59,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$73,955.2951","$3,509.43",$0,16
+ABS,Alcohol Beverage Services,ABS 85 Potomac,F,"$51,415.1203",$754.3,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$45,974.7155","$1,006.4",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$69,442","$6,732.45","$5,490.01",13
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$64,734.01",$458.52,$0,N18
+BOE,Board of Elections,BOE 24 Absentee Voting,F,"$78,611.2515",$0,$0,16
+BOE,Board of Elections,BOE 24 Director,M,"$176,948",$0,$0,M1
+ABS,Alcohol Beverage Services,ABS 85 Leisure World,F,"$79,935.1895",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,"$45,974.7155","$1,303.13",$0,12
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",M,"$65,480.48",$377.81,$0,22
+BOA,Board of Appeals Department,BOA 02 Executive Director,F,"$152,940",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$60,263.8204","$5,788.37",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Darnestown,M,"$72,463",$533.47,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Purchasing,M,"$98,228",$0,"$6,716.14",21
+ABS,Alcohol Beverage Services,ABS 85 Leisure World,M,"$56,537.9205",$32.59,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,M,"$21,864.1",$74.37,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$59,881.0043","$3,328.4",$0,15
+BOA,Board of Appeals Department,BOA 02 Board of Appeals Division,F,"$74,404.5808",$414.75,$0,N16
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$53,833.9239","$1,265.9",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,"$21,862",$43.28,$0,12
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$66,690.4462",$182.37,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$53,257.6",$448.45,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$65,961.8438","$2,092.7",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,F,"$60,908.636","$5,422.71",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$117,424",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Kingsview,F,"$53,257.6",$906.11,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$86,103",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 Wheaton,M,"$53,257.6",$126.72,"$1,276.43",12
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$43,249.8667",$456.4,$0,12
+ABS,Alcohol Beverage Services,"ABS 85 Licensure, Regulation and Education",F,"$166,140.03",$0,$0,M2
+ABS,Alcohol Beverage Services,ABS 85 Retail Administration,M,"$111,169.46",$0,$0,N25
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,"$88,161.3",$211.09,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Goshen Crossing,M,"$75,233.4096",$0,$0,N18
+ABS,Alcohol Beverage Services,ABS 85 King Farm,M,"$24,047.9327",$2.13,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and Wine Delivery Operations,M,"$63,000","$1,059.6",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$43,600.4411","$4,195.08",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$68,326.2786","$15,420.99",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$58,571.1182",$350.88,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$66,572","$1,958.96","$1,081.89",12
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$47,447.9116",$28.67,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Montrose,F,"$98,228",$0,$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$57,714.4705","$7,570.81",$0,15
+ABS,Alcohol Beverage Services,ABS 85 Cabin John,M,"$21,862",$863.98,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Cloverly,M,"$84,810.2485","$1,422.37",$0,N21
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$59,591.7086","$1,688.45",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Gaithersburg Square,F,"$62,820.332",$993.74,$0,14
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,M,"$24,779.2732",$314.28,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,F,"$23,234.4498",$115.61,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$46,638.1343",$0,$0,10
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$59,003.2162",$505.68,$0,13
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$52,918.8229","$5,780.52",$0,12
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$149,464.15",$0,"$9,021.82",18
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$43,600.4359","$4,196.09",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Beer Warehouse Operations,M,"$59,376.01","$2,171.54",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$78,947",$456.68,"$6,257.7",16
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,M,"$139,407.15",$0,$0,M3
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,"$82,808.28","$11,870.82",$0,21
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$42,126.025","$1,182.87",$0,10
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,M,"$58,860.9814","$1,167.19",$0,14
+ABS,Alcohol Beverage Services,ABS 85 Liquor and WIne Loading,M,"$56,754.8877","$1,412.09",$0,13
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,"$49,948.065",$281.74,$0,15
+ABS,Alcohol Beverage Services,ABS 85 Cabin John,M,"$24,779.5625",$226.32,$0,12
+ABS,Alcohol Beverage Services,ABS 85 Walnut Hill,F,"$45,974.7155",$457.36,$0,12

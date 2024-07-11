@@ -1,0 +1,596 @@
+Serial Number,List Year,Place,PlaceID,Address,Assessed Value,Sale Amount,Sales Ratio,Property Type,PropertyTypeID,Residential Type
+200598,2020,Groton,1,62 SOUND BREEZE AVE,"$328,020","$635,000",0.52,Vacant Land,1,Single Family
+200911,2020,Greenwich,2,1525 EAST PUTNAM AVENUE UN409,"$183,820","$290,000",0.63,Residential,2,Condo
+200137,2020,East Windsor,3,15B REGGIE WAY,"$149,630","$249,900",0.6,Residential,2,Condo
+201254,2020,Griswold,4,61 SOUTH MAIN ST UNIT 105,"$87,500","$165,000",0.53,Commercial,3,Condo
+200040,2020,Manchester,5,269 PARKER STREET,"$113,200","$220,000",0.51,Commercial,3,Single Family
+2000225,2020,Bloomfield,6,78 ADAMS ROAD,"$164,430","$308,000",0.53,Commercial,3,Single Family
+201786,2020,Greenwich,2,43 LAFRENTZ ROAD,"$1,069,740","$3,450,000",0.31,Vacant Land,1,Single Family
+20044,2020,Darien,7,37 OLD PARISH ROAD,"$1,053,360","$1,525,000",0.69,Vacant Land,1,Single Family
+200477,2020,East Lyme,8,10 STONECLIFFE DR,"$198,100","$350,000",0.57,Commercial,3,Single Family
+200269,2020,East Lyme,8,46 CRESCENT AVE,"$175,630","$469,000",0.37,Residential,2,Single Family
+201076,2020,Bristol,9,351 MATTHEWS ST,"$318,780","$540,000",0.59,Commercial,3,Single Family
+200058,2020,Kent,10,128B SEGAR MOUNTAIN RD,"$273,400","$650,000",0.42,Commercial,3,Single Family
+200293,2020,Branford,11,20 KELLYCREST RD,"$226,000","$405,000",0.56,Residential,2,Single Family
+200031,2020,Bethlehem,12,15 TULIP TREE LANE,"$207,000","$335,000",0.62,Vacant Land,1,Condo
+200331,2020,Killingly,13,3056 DAVID AVE,"$161,910","$200,000",0.81,Residential,2,Single Family
+200061,2020,Bristol,9,161 GRIDLEY ST,"$75,530","$90,600",0.83,Residential,2,Single Family
+200209,2020,East Lyme,8,468R BOSTON POST RD,"$305,550","$470,000",0.65,Commercial,3,Single Family
+200083,2020,East Granby,14,28 BRIGHTON DRIVE,"$309,200","$316,000",0.98,Residential,2,Single Family
+2000125,2020,Bloomfield,6,54 VISTA WAY,"$239,120","$60,000",3.99,Vacant Land,1,Condo
+200520,2020,East Lyme,8,215 UPPER PATTAGANSETT RD,"$237,720","$389,900",0.61,Residential,2,Single Family
+2000476,2020,Cheshire,15,218 WOODPOND RD,"$265,100","$492,000",0.54,Commercial,3,Single Family
+20829,2020,Hartford,16,4 PARK TER,"$75,915","$251,000",0.3,Commercial,3,Single Family
+200327,2020,East Haven,17,1 TALMADGE AVE,"$121,430","$230,000",0.53,Commercial,3,Single Family
+20000209,2020,Brookfield,18,162 LONG MEADOW HILL RD,"$237,840","$375,000",0.63,Commercial,3,Single Family
+200772,2020,Groton,1,30 SUNNYSIDE PARK,"$112,840","$265,000",0.43,Residential,2,Single Family
+200015,2020,East Granby,14,27 METACOMET DRIVE,"$258,800","$289,900",0.89,Residential,2,Single Family
+20148,2020,Burlington,19,102 STAFFORD RD,"$192,710","$174,000",1.11,Residential,2,Single Family
+200507,2020,Avon,20,15 COTTONWOOD DRIVE,"$96,550","$184,900",0.52,Vacant Land,1,Condo
+200539,2020,Guilford,21,35 GRAVES AVE,"$212,490","$600,000",0.35,Commercial,3,Single Family
+20035,2020,Eastford,22,55 COVE RD EAST,"$242,190","$350,000",0.69,Residential,2,Single Family
+200176,2020,Bristol,9,250 WOLCOTT RD,"$218,470","$317,000",0.69,Commercial,3,Single Family
+200707,2020,Farmington,23,75 PINNACLE RD,"$323,480","$650,000",0.5,Commercial,3,Single Family
+200250,2020,Bristol,9,36 WILLIS ST UN 4A,"$75,110","$140,000",0.54,Residential,2,Condo
+2020217,2020,Berlin,24,259 WEST LN,"$218,900","$394,900",0.55,Vacant Land,1,Single Family
+200397,2020,Bristol,9,42 BETHEL ST,"$81,410","$196,000",0.42,Commercial,3,Two Family
+201027,2020,Bristol,9,10 HIGH RIDGE RUN,"$229,110","$525,000",0.44,Residential,2,Single Family
+201192,2020,Manchester,5,27A THOMPSON ROAD,"$44,600","$65,000",0.69,Commercial,3,Condo
+200063,2020,Beacon Falls,25,7 WOODLAND PATH,$0,"$543,945",0.0,Vacant Land,1,Condo
+200372,2020,East Haven,17,75 REDWOOD DR #704,"$89,580","$165,000",0.54,Commercial,3,Condo
+2000246,2020,Cheshire,15,227 WIESE RD,"$272,250","$480,000",0.57,Commercial,3,Single Family
+200284,2020,East Lyme,8,61 INDIANOLA RD,"$183,470","$470,000",0.39,Commercial,3,Single Family
+200616,2020,Farmington,23,32 CENTERBROOK DRIVE,"$365,260","$702,000",0.52,Vacant Land,1,Single Family
+2020108,2020,Ansonia,26,145 PULASKI HWY,"$136,100","$269,000",0.51,Commercial,3,Single Family
+200054,2020,East Lyme,8,38 HOPE ST #4,"$149,450","$249,900",0.6,Vacant Land,1,Condo
+200509,2020,Greenwich,2,89 VIEW STREET,"$283,430","$300,000",0.94,Vacant Land,1,Two Family
+200430,2020,Greenwich,2,92 VALLEY ROAD,"$845,320","$1,250,000",0.68,Residential,2,Two Family
+20267,2020,Darien,7,8 SOUTH TRAIL,"$2,299,640","$3,622,500",0.63,Residential,2,Single Family
+200591,2020,Manchester,5,128 CAMPFIELD ROAD,"$99,800","$204,000",0.49,Residential,2,Single Family
+200506,2020,Bristol,9,188 BROOK ST,"$106,680","$165,000",0.65,Commercial,3,Single Family
+200321,2020,Bristol,9,172-174 GREENE ST,"$84,980","$114,547",0.74,Vacant Land,1,Two Family
+20091,2020,Lebanon,27,344 LAKESIDE DR,"$172,700","$130,000",1.33,Vacant Land,1,Single Family
+20067,2020,Bethel,28,24 FOREST WSY,"$279,790","$405,000",0.69,Commercial,3,Condo
+200298,2020,Avon,20,11 MOUNTAIN LEDGE RD,"$159,720","$340,000",0.47,Commercial,3,Single Family
+200235,2020,Groton,1,27 RIVERVIEW AVE (CITY),"$104,510","$145,000",0.72,Commercial,3,Single Family
+200000370,2020,Brookfield,18,9 CHATHAM COURT,"$83,780","$150,000",0.56,Commercial,3,Condo
+200215,2020,Canton,29,91 ANDREW DRIVE,"$321,350","$570,000",0.56,Commercial,3,Single Family
+20265,2020,East Hartford,30,48 CANTERBURY ST,"$76,440","$122,500",0.62,Commercial,3,Single Family
+20191,2020,Darien,7,31 PATRICIA LANE,"$646,450","$1,180,000",0.55,Commercial,3,Single Family
+2020274,2020,Ansonia,26,48 ROCKWOOD AVE,"$161,500","$372,000",0.43,Residential,2,Single Family
+200260,2020,Danbury,31,32 COALPIT HILL RD #4,"$84,900","$181,778",0.47,Residential,2,Condo
+200158,2020,Bristol,9,67 BRIDGEPORT AVE,"$113,890","$225,000",0.51,Commercial,3,Single Family
+200086,2020,Greenwich,2,32 HETTIEFRED ROAD,"$1,399,790","$2,450,000",0.57,Commercial,3,Single Family
+200639,2020,Groton,1,4 TYLER AVE,"$259,770","$650,000",0.4,Commercial,3,Single Family
+200203,2020,East Windsor,3,30 POND ST,"$116,330","$200,000",0.58,Commercial,3,Single Family
+200038,2020,Meriden,32,41 SUNNY LANE,"$209,440","$307,000",0.68,Commercial,3,Single Family
+200144,2020,Killingworth,33,2 WOODLAND TRAIL,$0,"$184,995",0.0,Residential,2,Single Family
+201465,2020,Danbury,31,50 COUNTRY VIEW RD,"$421,300","$849,900",0.5,Residential,2,Condo
+200167,2020,Greenwich,2,2 OLD CHURCH ROAD UN3,"$1,471,680","$2,000,000",0.74,Residential,2,Condo
+200530,2020,Manchester,5,503 BUSH HILL ROAD,"$163,000","$235,000",0.69,Commercial,3,Single Family
+20765,2020,Hartford,16,216 FRANKLIN AVE,"$78,400","$256,000",0.31,Residential,2,Three Family
+200608,2020,Farmington,23,912 NEW BRITAIN AV,"$308,790","$492,000",0.63,Residential,2,Single Family
+2000142,2020,Bloomfield,6,5 TIFFANY LANE,"$129,290","$239,000",0.54,Residential,2,Single Family
+200352,2020,Killingly,13,78 R & R PARK,"$33,530","$52,400",0.64,Commercial,3,Single Family
+201120,2020,Griswold,4,1466 HOPEVILLE RD,"$223,580","$225,000",0.99,Commercial,3,Single Family
+200761,2020,Greenwich,2,2 WIDGEON WAY,"$1,242,500","$1,875,000",0.66,Vacant Land,1,Single Family
+200502,2020,Greenwich,2,23 NORTH PORCHUCK ROAD,"$1,145,970","$1,400,000",0.82,Residential,2,Single Family
+2000192,2020,Bloomfield,6,168 THISTLE POND DRIVE,"$198,730","$350,000",0.57,Vacant Land,1,Condo
+200806,2020,Glastonbury,34,130 GRISWOLD ST,"$143,700","$340,000",0.42,Commercial,3,Single Family
+200010,2020,Canaan,35,55 MUSIC MOUNTAIN RD,"$161,100","$183,000",0.88,Residential,2,Single Family
+20139,2020,Hartford,16,130 TREDEAU ST,"$51,940","$198,000",0.26,Residential,2,Single Family
+200103,2020,East Hartford,30,20 RISLEY ST,"$86,140","$176,000",0.49,Residential,2,Single Family
+200166,2020,East Haven,17,275 COE AVE,"$133,020","$305,000",0.44,Residential,2,Single Family
+200029,2020,Greenwich,2,14 STUART DRIVE,"$528,360","$820,000",0.64,Commercial,3,Single Family
+20601,2020,Darien,7,17 WALMSLEY RD,"$565,530","$1,125,000",0.5,Vacant Land,1,Single Family
+200106,2020,Madison,36,4 MATTHEW COURT,"$668,400","$985,000",0.68,Residential,2,Single Family
+200081,2020,Killingworth,33,40 BRIDLEPATH TRAIL,"$72,420","$161,000",0.45,Commercial,3,Single Family
+20640,2020,Hartford,16,100 WELLS ST #1207 & 100 WELLS,"$24,080","$95,000",0.25,Vacant Land,1,Condo
+200396,2020,Glastonbury,34,633 MAIN ST,"$216,200","$380,000",0.57,Residential,2,Single Family
+2020248,2020,Berlin,24,822 NORTON ROAD,"$181,100","$340,000",0.53,Vacant Land,1,Single Family
+201411,2020,Danbury,31,27 CROWS NEST LA 17F,"$106,900","$255,000",0.42,Commercial,3,Condo
+201058,2020,Greenwich,2,17 EAST LYON FARM DRIVE,"$687,890","$940,000",0.73,Vacant Land,1,Condo
+201148,2020,Hartford,16,21 ELLIOTT ST,"$76,918","$280,000",0.27,Vacant Land,1,Three Family
+2000510,2020,Cheshire,15,59 MACKENZIE WILLOW TERR,$0,"$573,879",0.0,Vacant Land,1,Condo
+200323,2020,Branford,11,24 MIDWOOD RD,"$242,100","$354,000",0.68,Residential,2,Single Family
+2020297,2020,Berlin,24,33 LANGDON COURT UNIT A-102,"$111,800","$169,900",0.66,Commercial,3,Condo
+200666,2020,Greenwich,2,27 BRIDGE STREET,"$729,050","$1,900,000",0.38,Residential,2,Single Family
+200068,2020,Bethlehem,12,296 MUNGER LN,"$289,400","$625,000",0.46,Commercial,3,Single Family
+200092,2020,Beacon Falls,25,193 CONCORD COURT,"$74,340","$165,000",0.45,Vacant Land,1,Condo
+20359,2020,Hartford,16,118 HARBISON AVE,"$39,620","$77,000",0.51,Vacant Land,1,Single Family
+200963,2020,Bristol,9,138 FIELD ST,"$109,200","$230,000",0.47,Commercial,3,Two Family
+200383,2020,Manchester,5,77 OLIVER ROAD,"$111,500","$235,000",0.47,Vacant Land,1,Single Family
+20467,2020,Darien,7,708 HOLLOW TREE RIDGE ROAD,"$2,530,990","$3,500,000",0.72,Commercial,3,Single Family
+200072,2020,Colchester,37,379 NORWICH AVE,"$127,400","$212,000",0.6,Residential,2,Single Family
+200016,2020,Bethany,38,62 HUMISTON DR,"$281,290","$560,000",0.5,Residential,2,Single Family
+20281,2020,Hartford,16,38 AMHERST ST,"$46,585","$201,000",0.23,Commercial,3,Single Family
+200096,2020,Greenwich,2,84 BURNING TREE ROAD,"$1,295,700","$1,940,000",0.67,Commercial,3,Single Family
+200336,2020,Madison,36,77 OVERSHORES DR WEST,"$326,700","$675,000",0.48,Residential,2,Single Family
+20120,2020,Bethel,28,8 BARNUM COURT UNIT 8,"$194,040","$319,500",0.61,Vacant Land,1,Condo
+201068,2020,Hartford,16,136 MARTIN ST,"$49,576","$65,000",0.76,Vacant Land,1,Two Family
+200074,2020,Greenwich,2,27 VINEYARD LANE,"$1,440,110","$300,000",4.8,Commercial,3,Single Family
+200129,2020,Canton,29,61 SECRET LAKE ROAD,"$167,910","$280,000",0.6,Vacant Land,1,Single Family
+200394,2020,Enfield,39,72 WYNWOOD DR,"$91,680","$160,000",0.57,Residential,2,Condo
+201316,2020,Manchester,5,528 WOODBRIDGE STREET,"$110,100","$230,000",0.48,Commercial,3,Single Family
+200315,2020,East Lyme,8,14 RIVER RD,"$334,600","$260,000",1.29,Vacant Land,1,Single Family
+200512,2020,Enfield,39,4 RANBERRY HOLLOW,"$72,340","$150,500",0.48,Commercial,3,Condo
+201444,2020,Greenwich,2,44 SUMMIT ROAD,"$1,125,460","$1,800,000",0.63,Vacant Land,1,Single Family
+2020052,2020,Berlin,24,198 HUDSON STREET,"$157,500","$250,500",0.63,Commercial,3,Single Family
+2000279,2020,Cheshire,15,375 REDWOOD LANE,"$203,240","$430,000",0.47,Commercial,3,Single Family
+200194,2020,Essex,40,1 EAGLE RIDGE DR,"$204,600","$469,000",0.44,Residential,2,Single Family
+200078,2020,Mansfield,41,14 PATRIOTS SQ,"$77,100","$130,000",0.59,Residential,2,Condo
+201785,2020,Greenwich,2,57 HILLSIDE DRIVE,"$1,187,690","$1,800,000",0.66,Vacant Land,1,Single Family
+2000027,2020,Cheshire,15,580 PECK LANE,"$265,570","$425,000",0.62,Commercial,3,Single Family
+20995,2020,Hartford,16,118 ENFIELD ST,"$66,555","$150,000",0.44,Residential,2,Three Family
+2020254,2020,Berlin,24,59 PEACH TREE LN,"$236,300","$405,000",0.58,Commercial,3,Single Family
+200000372,2020,Brookfield,18,64 OLD BRIDGE RD,"$410,680","$640,000",0.64,Commercial,3,Single Family
+2000502,2020,Cheshire,15,56 MACKENZIE WILLOW TERR,$0,"$624,382",0.0,Residential,2,Condo
+200240,2020,Madison,36,389 COUNTY RD,"$218,500","$200,000",1.09,Residential,2,Single Family
+200032,2020,Madison,36,10 ARROWHEAD RD,"$209,400","$475,000",0.44,Commercial,3,Single Family
+200052,2020,Lyme,42,3 BEAVER BROOK RD,"$293,900","$527,500",0.56,Residential,2,Single Family
+200159,2020,Guilford,21,57 LONG HILL FARM,"$138,760","$240,000",0.58,Vacant Land,1,Condo
+200039,2020,Bozrah,43,62 HOUGH RD,"$111,410","$265,000",0.42,Residential,2,Single Family
+201230,2020,Danbury,31,52 BRIAR RIDGE RD,"$239,100","$487,000",0.49,Residential,2,Single Family
+20004,2020,Lebanon,27,88 LAKESIDE DR,"$175,540","$250,000",0.7,Residential,2,Single Family
+200895,2020,Greenwich,2,33 BROAD ROAD,"$3,681,650","$4,375,000",0.84,Residential,2,Single Family
+200222,2020,Canton,29,48 FOREST LANE,"$153,700","$287,700",0.53,Residential,2,Single Family
+200057,2020,Madison,36,WEST SUSSEX PL U-3-4,"$20,000","$15,000",1.33,Residential,2,Condo
+200262,2020,Canton,29,21 EAST STREET,"$151,020","$385,000",0.39,Vacant Land,1,Single Family
+200012,2020,Bethlehem,12,70 MAIN STREET NORTH,"$131,600","$261,000",0.5,Commercial,3,Single Family
+2000110,2020,Bloomfield,6,43 MILLS LANE,"$177,940","$290,000",0.61,Residential,2,Single Family
+201024,2020,Manchester,5,32 HIGHLAND STREET,"$94,900","$162,000",0.59,Residential,2,Single Family
+200255,2020,Farmington,23,12 COPPER BEECH LA,"$500,390","$625,000",0.8,Commercial,3,Single Family
+200170,2020,Cromwell,44,13 WILDWOOD ROAD,"$133,210","$257,000",0.52,Vacant Land,1,Single Family
+200417,2020,Glastonbury,34,279 ADDISON RD,"$166,800","$280,000",0.6,Vacant Land,1,Single Family
+201259,2020,Griswold,4,21 BOW LANE,"$134,960","$305,000",0.44,Residential,2,Single Family
+201278,2020,Bristol,9,268 DIVINITY ST UN 14 AKA 2-6,"$61,460","$125,000",0.49,Vacant Land,1,Condo
+2000203,2020,Cheshire,15,560 OAK AVE U15,"$97,840","$196,000",0.5,Commercial,3,Condo
+200588,2020,Branford,11,51 MANORWOOD DR,"$100,300","$185,000",0.54,Vacant Land,1,Condo
+201308,2020,Manchester,5,34 COOLIDGE STREET,"$88,400","$184,900",0.48,Vacant Land,1,Single Family
+200000279,2020,Brookfield,18,9 WOODCREEK RD,"$363,720","$600,000",0.61,Residential,2,Single Family
+200944,2020,Danbury,31,14 BOULDER RIDGE W,"$124,900","$255,000",0.49,Residential,2,Single Family
+200763,2020,Greenwich,2,31 SCOTT LANE,"$959,910","$1,115,000",0.86,Commercial,3,Single Family
+2020177,2020,Ansonia,26,323 BEAVER ST,"$133,000","$248,400",0.54,Vacant Land,1,Single Family
+200011,2020,Bridgeport,45,116 BASSICK AVE,"$76,090","$148,700",0.51,Vacant Land,1,Single Family
+200462,2020,Madison,36,69 FORT PATH RD,"$216,100","$365,000",0.59,Vacant Land,1,Single Family
+20618,2020,Darien,7,147 HOLMES AVE,"$652,820","$1,344,800",0.49,Residential,2,Single Family
+200197,2020,Avon,20,71 NORTH FARMS ROAD,"$355,850","$592,000",0.6,Vacant Land,1,Single Family
+200242,2020,Branford,11,175 CHERRY HILL RD,"$187,100","$300,000",0.62,Commercial,3,Single Family
+200668,2020,Greenwich,2,105 PARSONAGE ROAD,"$3,788,120","$5,200,000",0.73,Residential,2,Single Family
+200218,2020,Groton,1,113 LAURELWOOD RD,"$118,860","$245,500",0.48,Commercial,3,Single Family
+20445,2020,Bethel,28,75 ROCKWELL ROAD,"$252,140","$483,000",0.52,Commercial,3,Single Family
+200528,2020,Avon,20,2 CONIFER LANE,"$189,560","$275,000",0.69,Vacant Land,1,Condo
+200233,2020,Farmington,23,110 SONGBIRD LA,"$113,040","$172,500",0.66,Vacant Land,1,Condo
+200653,2020,Manchester,5,69 GREEN MANOR ROAD,"$115,600","$220,000",0.53,Vacant Land,1,Single Family
+20099,2020,Derby,46,54-56 LAKEVIEW TERR,"$146,580","$315,000",0.47,Vacant Land,1,Two Family
+201228,2020,Bristol,9,535 EAST RD,"$130,270","$272,000",0.48,Commercial,3,Three Family
+200141,2020,Branford,11,82 PINE ORCHARD RD,"$266,700","$545,000",0.49,Residential,2,Single Family
+200025,2020,Manchester,5,150 CROFT DRIVE,"$123,200","$224,000",0.55,Commercial,3,Single Family
+200111,2020,Hebron,47,82 PORTER RD,"$30,390","$100,000",0.3,Vacant Land,1,Single Family
+200077,2020,Coventry,48,341 DUNN RD,"$151,900","$249,900",0.61,Residential,2,Single Family
+201145,2020,Manchester,5,208 BRIARWOOD DRIVE,"$151,700","$311,000",0.49,Commercial,3,Single Family
+20833,2020,East Hartford,30,71 MAIN ST,"$112,360","$242,000",0.46,Residential,2,Single Family
+2000228,2020,Bloomfield,6,92 ADAMS ROAD,"$170,520","$300,000",0.57,Residential,2,Single Family
+200192,2020,East Haddam,49,96 LONGWOOD DR,"$83,020","$175,000",0.47,Vacant Land,1,Single Family
+200050,2020,Easton,50,31 KACHELE STREET,"$494,130","$685,000",0.72,Commercial,3,Single Family
+20200,2020,Bethel,28,40 HUNTING RIDGE LANE,"$210,799","$425,432",0.5,Residential,2,Condo
+200189,2020,Branford,11,195 PINE ORCHARD RD,"$237,600","$570,000",0.42,Commercial,3,Single Family
+200429,2020,Avon,20,12 BRENTHAVEN,"$214,470","$410,000",0.52,Residential,2,Condo
+200155,2020,Branford,11,17 MONTGOMERY PARKWAY,"$383,300","$629,999",0.61,Residential,2,Single Family
+200309,2020,Farmington,23,30 CHILTERN ST,"$309,720","$510,000",0.61,Residential,2,Single Family
+201016,2020,Greenwich,2,210 WEST LYON FARM DRIVE,"$918,120","$1,400,000",0.66,Vacant Land,1,Condo
+200583,2020,Greenwich,2,2 CONYERS FARM DRIVE,"$3,658,200","$4,200,000",0.87,Commercial,3,Single Family
+20053,2020,East Hartford,30,33 ARAWAK DR,"$19,420","$32,000",0.61,Vacant Land,1,Condo
+200526,2020,Guilford,21,71 HIGHWOODS DR,"$265,160","$466,000",0.57,Vacant Land,1,Single Family
+200098,2020,Colchester,37,14 WOODACRES RD,"$191,900","$335,000",0.57,Residential,2,Single Family
+200152,2020,Beacon Falls,25,29 BAYBERRY COURT,$0,"$601,291",0.0,Residential,2,Condo
+200002,2020,Guilford,21,59 LONG HILL FARMS,"$133,860","$239,000",0.56,Residential,2,Condo
+200001,2020,Killingworth,33,35 WHITEWOOD ROAD,"$114,460","$225,000",0.51,Commercial,3,Single Family
+201114,2020,Bristol,9,1 FARRELL AVE,"$106,610","$175,000",0.61,Vacant Land,1,Single Family
+200121,2020,Avon,20,63 NORTHGATE,"$528,490","$775,000",0.68,Vacant Land,1,Single Family
+200674,2020,Groton,1,360 BENHAM RD,"$123,690","$260,000",0.48,Vacant Land,1,Single Family
+200345,2020,Farmington,23,84 TUNXIS VILLAGE,"$132,890","$213,000",0.62,Commercial,3,Condo
+20513,2020,East Hartford,30,90 PARK AVE,"$73,340","$180,000",0.41,Residential,2,Single Family
+200138,2020,Groton,1,28 PEPPERIDGE LN,"$137,970","$199,000",0.69,Vacant Land,1,Single Family
+200254,2020,Greenwich,2,414 RIVERSVILLE ROAD,"$793,940","$1,230,000",0.65,Commercial,3,Single Family
+200437,2020,Danbury,31,10 DEVONSHIRE DR,"$230,500","$385,000",0.6,Commercial,3,Single Family
+200797,2020,Danbury,31,55 STARRS PLAIN RD,"$228,500","$350,000",0.65,Residential,2,Single Family
+201332,2020,Bristol,9,14 INWOOD LN,"$158,760","$345,000",0.46,Residential,2,Single Family
+200030,2020,Bridgewater,51,67 BOTSFORD HILL ROAD,"$666,600","$1,046,945",0.64,Commercial,3,Single Family
+200567,2020,Enfield,39,80 KALISH AVE,"$128,040","$237,000",0.54,Residential,2,Single Family
+201101,2020,Bristol,9,489 WOLCOTT ST UN 100,"$85,330","$164,000",0.52,Residential,2,Condo
+200241,2020,Glastonbury,34,16 GARLAND DR,"$97,300","$182,000",0.53,Vacant Land,1,Condo
+200991,2020,Bristol,9,94 CYPRESS ST,"$110,810","$225,000",0.49,Vacant Land,1,Single Family
+200452,2020,East Lyme,8,17 EGRET RD,"$246,610","$470,000",0.52,Vacant Land,1,Single Family
+200220,2020,Mansfield,41,87 MONTICELLO LANE,"$330,900","$605,000",0.55,Residential,2,Single Family
+200089,2020,Groton,1,2 BURGEVILLE CT,"$93,030","$189,000",0.49,Residential,2,Single Family
+2020419,2020,Berlin,24,286 ROBBINS RD,"$157,200","$309,900",0.51,Vacant Land,1,Single Family
+2000388,2020,Cheshire,15,770 WARD LANE,"$207,180","$397,000",0.52,Commercial,3,Single Family
+200749,2020,Glastonbury,34,1 SOUTHGATE DR,"$132,800","$250,000",0.53,Commercial,3,Condo
+200127,2020,Cromwell,44,44 CEDAR LAND COURT,"$81,060","$143,000",0.57,Residential,2,Condo
+2020154,2020,Ansonia,26,95 JACKSON ST,"$148,700","$310,000",0.48,Vacant Land,1,Two Family
+201029,2020,Bristol,9,23 HAVILAND ST,"$130,270","$244,900",0.53,Vacant Land,1,Single Family
+201246,2020,Hartford,16,26 WILBUR ST,"$84,489","$204,000",0.41,Residential,2,Two Family
+201287,2020,Greenwich,2,190 STANWICH ROAD,"$1,638,350","$2,795,000",0.59,Residential,2,Single Family
+20203,2020,Hartford,16,70 FREEMAN ST,"$68,565","$275,000",0.25,Residential,2,Three Family
+200178,2020,Farmington,23,3 NORFOLK GARDENS,"$300,050","$475,000",0.63,Residential,2,Single Family
+2020148,2020,Berlin,24,48 CORNWALL ROAD,"$180,200","$296,000",0.61,Residential,2,Single Family
+200375,2020,East Lyme,8,81 E PATTAGANSETT RD54,"$84,070","$153,000",0.55,Residential,2,Condo
+200156,2020,Greenwich,2,141 OLD CHURCH ROAD,"$1,468,110","$1,950,000",0.75,Vacant Land,1,Single Family
+200901,2020,Manchester,5,11 CHARIS ROAD,"$100,500","$182,500",0.55,Residential,2,Single Family
+2000385,2020,Bloomfield,6,5 JONATHAN PLACE,"$139,720","$251,500",0.56,Vacant Land,1,Single Family
+200000411,2020,Brookfield,18,11 BRISTOL PATH,"$3,770","$180,000",0.02,Vacant Land,1,Condo
+200573,2020,Groton,1,12 PEARL ST (NOANK),"$247,520","$405,000",0.61,Commercial,3,Single Family
+2020081,2020,Ansonia,26,81 HODGE AVE,"$113,400","$299,000",0.38,Vacant Land,1,Two Family
+200305,2020,Colchester,37,11 VILLAGE CT,"$182,700","$330,000",0.55,Residential,2,Single Family
+200627,2020,Manchester,5,12 CROSBY ROAD,"$101,300","$210,000",0.48,Vacant Land,1,Single Family
+200335,2020,Danbury,31,6 ROUNDHILL DR,"$303,500","$522,500",0.58,Commercial,3,Single Family
+200256,2020,Groton,1,28 TAUTOG ST,"$521,430","$903,500",0.58,Commercial,3,Single Family
+20036,2020,Bethel,28,8 BROOKWOOD DRIVE,"$155,680","$305,200",0.51,Commercial,3,Single Family
+2020210,2020,Ansonia,26,34 WOODBRIDGE AVE,"$100,300","$85,000",1.18,Commercial,3,Single Family
+200056,2020,Greenwich,2,59 CHERRY VALLEY ROAD,"$1,284,500","$1,200,000",1.07,Vacant Land,1,Single Family
+200577,2020,Enfield,39,23 COTTAGE RD,"$155,200","$229,900",0.68,Residential,2,Single Family
+20000136,2020,Brookfield,18,19 SHAMROCK DR,"$298,980","$514,000",0.58,Vacant Land,1,Single Family
+201564,2020,Greenwich,2,64 BENJAMIN STREET,"$1,006,180","$1,820,000",0.55,Vacant Land,1,Single Family
+20731,2020,East Hartford,30,176 OAK ST,"$94,740","$230,000",0.41,Residential,2,Single Family
+200657,2020,Groton,1,296 MERIDIAN ST UNIT I,"$49,350","$101,000",0.49,Commercial,3,Condo
+21000249,2021,Cheshire,15,70 SOUTHWICK CT U201,"$79,830","$216,000",0.37,Residential,2,Condo
+211097,2021,Fairfield,52,24 ROANOKE AVENUE,"$206,990","$400,000",0.52,Vacant Land,1,Single Family
+21025,2021,Chaplin,53,51 CHAPPELL RD,"$103,400","$207,500",0.5,Vacant Land,1,Single Family
+21233,2021,Farmington,23,6 VIRGINIA LA,"$269,610","$540,000",0.5,Residential,2,Single Family
+21002,2021,Deep River,54,35 CEDAR LAKE RD,"$123,410","$170,000",0.73,Residential,2,Single Family
+21103,2021,Haddam,55,11 DEPOT HILL RD,"$130,420","$365,000",0.36,Vacant Land,1,Single Family
+210322,2021,Danbury,31,1 HIGH FIELDS DR,"$392,700","$599,000",0.66,Commercial,3,Single Family
+211218,2021,New Britain,56,6 GREENFIELD DR,"$86,030","$200,000",0.43,Commercial,3,Single Family
+2100301,2021,Madison,36,63 PRINCESS DR,"$191,900","$435,000",0.44,Commercial,3,Single Family
+21609,2021,Guilford,21,91 RUSSO DR,"$223,520","$307,500",0.73,Commercial,3,Single Family
+210261,2021,Danbury,31,19 SOMERS ST A8,"$99,800","$225,000",0.44,Residential,2,Condo
+211003,2021,Bristol,9,100 VIEW ST,"$81,970","$215,000",0.38,Residential,2,Two Family
+21108,2021,Farmington,23,1644-5 FARMINGTON AV,"$68,770","$128,000",0.54,Commercial,3,Condo
+210702,2021,Hamden,57,130 BRADLEY AVE,"$108,710","$241,000",0.45,Vacant Land,1,Single Family
+21408,2021,Darien,7,30 LAKE DRIVE,"$547,190","$910,000",0.6,Residential,2,Single Family
+21093,2021,Darien,7,3 HALF MILE RD,"$1,947,680","$2,151,000",0.91,Commercial,3,Single Family
+2100630,2021,Naugatuck,58,362 HILLSIDE AVE,"$106,470","$120,000",0.89,Vacant Land,1,Two Family
+211267,2021,Bridgeport,45,72 TOM THUMB ST #78,"$214,520","$315,000",0.68,Commercial,3,Two Family
+210121,2021,Litchfield,59,380 SOUTH ST,"$124,930","$358,000",0.35,Commercial,3,Single Family
+210468,2021,Branford,11,130 WATCH HILL RD,"$120,100","$260,000",0.46,Residential,2,Condo
+210573,2021,Hamden,57,59 WHITING ST,"$107,240","$125,000",0.86,Commercial,3,Single Family
+2100372,2021,Madison,36,111 SCOTLAND RD,"$177,400","$460,000",0.39,Residential,2,Single Family
+21154,2021,Farmington,23,5-F STAUNTON COURT,"$130,500","$143,877",0.91,Commercial,3,Condo
+210564,2021,Bridgeport,45,228 DEFOREST AVE,"$78,230","$198,000",0.4,Commercial,3,Single Family
+210409,2021,New Britain,56,145-2A BASSETT ST,"$63,350","$92,000",0.69,Residential,2,Condo
+21000361,2021,Cheshire,15,9 CURRIER WAY,"$102,640","$285,000",0.36,Commercial,3,Condo
+218375,2021,Middletown,60,1050 NEWFIELD ST,"$60,470","$165,000",0.37,Residential,2,Single Family
+21220,2021,Plainfield,61,131 SQUAW ROCK RD,"$145,570","$355,000",0.41,Commercial,3,Single Family
+2100101,2021,Marlborough,62,102 NO MAIN ST,"$294,490","$625,000",0.47,Commercial,3,Single Family
+21000215,2021,Cheshire,15,43 BRADFORD DR,"$143,930","$285,000",0.5,Residential,2,Single Family
+211269,2021,Danbury,31,48 & 50 DRIFTWAY RD & HALL PAS,"$290,900","$365,000",0.8,Residential,2,Single Family
+210098,2021,Ellington,63,6 TIMBER LN,"$209,640","$330,000",0.64,Commercial,3,Single Family
+210417,2021,New Britain,56,181 FAIRWAY DR,"$88,002","$225,000",0.39,Residential,2,Single Family
+210161,2021,Clinton,64,8 ALDEN DR,"$176,200","$356,000",0.49,Vacant Land,1,Single Family
+210054,2021,New Britain,56,22 BRADY AVE,"$90,160","$237,100",0.38,Commercial,3,Single Family
+210310,2021,Bloomfield,6,37 BURR ROAD,"$175,910","$365,000",0.48,Residential,2,Single Family
+210219,2021,Branford,11,435 THOREAU ST,"$113,400","$210,000",0.54,Commercial,3,Condo
+21393,2021,Bethel,28,31 MAPLE AVENUE,"$184,870","$405,000",0.46,Commercial,3,Two Family
+210303,2021,Hamden,57,35 TODD ST U307,"$208,600","$320,000",0.65,Commercial,3,Condo
+210274,2021,Berlin,24,78 FOUR ROD RD,"$162,700","$270,000",0.6,Commercial,3,Single Family
+21291,2021,Ridgefield,65,5 STANDISH DR,"$445,440","$900,000",0.49,Residential,2,Single Family
+210482,2021,Fairfield,52,247 BENNETT STREET,"$238,280","$400,000",0.6,Vacant Land,1,Single Family
+210397,2021,New Canaan,66,89 COMSTOCK HILL RD,"$653,660","$1,540,000",0.42,Residential,2,Single Family
+210993,2021,Bristol,9,"426 EMMETT ST., UNIT #47","$48,020","$130,000",0.37,Residential,2,Condo
+210208,2021,Hamden,57,36 WINDSOR RD,"$155,260","$213,144",0.73,Residential,2,Single Family
+2100664,2021,Naugatuck,58,215 EAST WATERBURY RD,"$123,660","$275,000",0.45,Residential,2,Single Family
+21299,2021,Monroe,67,66 HEATHER RD,"$358,900","$850,000",0.42,Residential,2,Single Family
+2100408,2021,Naugatuck,58,128 BEACON MANOR ROAD,"$88,300","$245,000",0.36,Residential,2,Single Family
+21162,2021,Guilford,21,43 MOUNTAIN TR,"$118,190","$150,500",0.79,Commercial,3,Single Family
+210708,2021,Danbury,31,9A FRANKLIN ST,"$147,500","$380,000",0.39,Vacant Land,1,Two Family
+211139,2021,Danbury,31,39 GREGORY ST,"$200,500","$325,000",0.62,Residential,2,Single Family
+211020,2021,Hamden,57,23 ROBERTSON DR,"$143,710","$379,900",0.38,Residential,2,Single Family
+21083,2021,Farmington,23,9 GRANDVIEW DR UNIT 43B,"$53,460","$104,900",0.51,Vacant Land,1,Condo
+2100330,2021,Naugatuck,58,22 GROVE ST,"$129,860","$250,000",0.52,Residential,2,Single Family
+210737,2021,Fairfield,52,60 BRETT ROAD,"$744,730","$1,550,000",0.48,Residential,2,Single Family
+210198,2021,Bristol,9,59 HANNAH ST,"$109,830","$174,000",0.63,Vacant Land,1,Single Family
+210159,2021,Ledyard,68,33 VINEGAR HILL RD,"$121,030","$195,000",0.62,Commercial,3,Single Family
+210363,2021,Fairfield,52,635 STILLSON ROAD,"$365,540","$649,000",0.56,Residential,2,Single Family
+210194,2021,Danbury,31,83 W WOOSTER ST,"$164,500","$345,000",0.48,Commercial,3,Single Family
+210313,2021,New Canaan,66,88 ARROWHEAD TR,"$956,900","$1,925,000",0.5,Commercial,3,Single Family
+21000052,2021,Cheshire,15,48 TROUT BROOK RD,"$261,280","$493,000",0.53,Residential,2,Single Family
+210252,2021,Mansfield,41,66 BALL HILL RD,"$218,600","$375,000",0.58,Commercial,3,Single Family
+21344,2021,Guilford,21,2 GREAT HILL COMMONS,"$212,750","$240,000",0.89,Commercial,3,Single Family
+21150,2021,Haddam,55,57 MORRIS RD,"$166,660","$375,000",0.44,Residential,2,Single Family
+2100263,2021,New Fairfield,69,38 LINDA LN,"$177,600","$372,500",0.48,Vacant Land,1,Single Family
+210811,2021,Fairfield,52,125 VESPER STREET,"$264,320","$565,000",0.47,Commercial,3,Single Family
+210399,2021,Danbury,31,104 COALPIT HILL RD A-4,"$111,000","$270,000",0.41,Commercial,3,Condo
+210385,2021,Bristol,9,82 FAIRFIELD ST,"$122,780","$236,000",0.52,Commercial,3,Single Family
+218238,2021,Middletown,60,51 SPRING ST,"$128,460","$325,000",0.4,Residential,2,Four Family
+211410,2021,Danbury,31,97 HAYESTOWN RD,"$215,700","$266,039",0.81,Commercial,3,Single Family
+21032,2021,Lebanon,27,254 MCCALL RD,"$135,180","$310,000",0.44,Residential,2,Single Family
+211065,2021,Hamden,57,312 BATTIS RD,"$120,120","$259,000",0.46,Commercial,3,Single Family
+210423,2021,Bristol,9,17 EDGEWOOD ST,"$68,530","$145,900",0.47,Vacant Land,1,Single Family
+210429,2021,Killingly,13,39 TAOS DR,"$154,630","$300,000",0.52,Vacant Land,1,Single Family
+210497,2021,Bridgeport,45,75 CLARKSON ST,"$229,290","$410,000",0.56,Commercial,3,Single Family
+2100526,2021,Naugatuck,58,1069 ANDREW MOUNTAIN RD,"$217,680","$575,000",0.38,Residential,2,Single Family
+211417,2021,Bridgeport,45,325 LAFAYETTE UNIT # 8111,"$48,710","$125,000",0.39,Residential,2,Condo
+210192,2021,Glastonbury,34,76 RIDGECREST RD,"$237,600","$475,000",0.5,Commercial,3,Single Family
+211032,2021,New Britain,56,1568 STANLEY ST,"$102,760","$201,100",0.51,Residential,2,Single Family
+210630,2021,Branford,11,1 MARIAN RD,"$149,000","$345,000",0.43,Residential,2,Single Family
+21121,2021,Farmington,23,70 BERKSHIRE DR,"$181,230","$256,000",0.71,Vacant Land,1,Single Family
+210707,2021,Middletown,60,31 SILVER ST,"$131,220","$210,000",0.62,Vacant Land,1,Two Family
+2100281,2021,New Fairfield,69,11 HIGH VIEW TERRACE,"$314,800","$726,500",0.43,Residential,2,Single Family
+210079,2021,Ellington,63,109 ORCHARD ST,"$122,630","$195,000",0.63,Vacant Land,1,Single Family
+21493,2021,Farmington,23,24 POND STREET,"$197,540","$370,000",0.53,Residential,2,Single Family
+210165,2021,Branford,11,4 FLAX MILL HOLLOW,"$247,300","$499,900",0.49,Residential,2,Single Family
+210005,2021,Mansfield,41,6 VALLEY VIEW DR,"$100,900","$165,995",0.61,Residential,2,Single Family
+21008,2021,Canterbury,70,185 KINNE RD,"$173,800","$272,774",0.64,Commercial,3,Single Family
+210137,2021,Brooklyn,71,23 RIVER FARM DR,"$153,100","$430,000",0.36,Residential,2,Single Family
+218273,2021,Middletown,60,227 ATKINS ST,"$250,000","$350,000",0.71,Vacant Land,1,Single Family
+210008,2021,Ellington,63,10 MINOR HILL RD,"$147,170","$140,000",1.05,Residential,2,Single Family
+210645,2021,Glastonbury,34,107 POND CIR,"$143,400","$259,000",0.55,Commercial,3,Single Family
+21012,2021,East Haddam,49,29 FALLS BASHAN RD,"$204,470","$400,000",0.51,Vacant Land,1,Single Family
+210051,2021,Bristol,9,8 MARION ST,"$78,330","$150,000",0.52,Vacant Land,1,Single Family
+210061,2021,Glastonbury,34,318 GRISWOLD ST,"$158,700","$360,000",0.44,Vacant Land,1,Single Family
+210095,2021,Mansfield,41,22 MEADOWBROOK LA,"$205,100","$347,000",0.59,Commercial,3,Single Family
+210143,2021,Canton,29,3 DRAKE LANE,"$214,100","$397,200",0.54,Vacant Land,1,Single Family
+2121196,2021,Ansonia,26,25 EDGEWOOD AVE,"$120,000","$325,000",0.37,Vacant Land,1,Single Family
+210541,2021,Hamden,57,177 GRANDVIEW AVE,"$110,390","$215,000",0.51,Vacant Land,1,Single Family
+210089,2021,Ledyard,68,120-5A GALLUP HILL RD,"$33,530","$87,000",0.39,Vacant Land,1,Condo
+211185,2021,New Britain,56,126-2001G BIRUTA ST,"$24,850","$94,500",0.26,Commercial,3,Condo
+21020,2021,Chaplin,53,96 ENGLAND RD,"$117,100","$220,000",0.53,Residential,2,Single Family
+211894,2021,Bridgeport,45,174 JONES AVE #176,"$140,160","$293,028",0.48,Residential,2,Two Family
+210317,2021,Killingly,13,98 NORTH ST,"$90,790","$230,000",0.39,Vacant Land,1,Single Family
+210718,2021,Danbury,31,9 RIVINGTON WAY,"$367,200","$682,500",0.54,Commercial,3,Condo
+211243,2021,New Britain,56,165 CHILDS ST,"$80,990","$200,000",0.4,Residential,2,Single Family
+210891,2021,New Britain,56,1546 CORBIN AVE,"$129,290","$330,000",0.39,Vacant Land,1,Single Family
+21361,2021,Farmington,23,21 ASH CT,"$150,290","$300,000",0.5,Residential,2,Condo
+210040,2021,Easton,50,56 BANKS ROAD,"$272,580","$375,000",0.73,Commercial,3,Single Family
+210045,2021,Ellington,63,9 JOEL DR,"$176,830","$262,000",0.67,Vacant Land,1,Two Family
+2100194,2021,New Fairfield,69,9 HILLCREST DR,"$364,000","$850,000",0.43,Commercial,3,Single Family
+218298,2021,Middletown,60,175 TROLLEY CROSSING LA,"$88,300","$172,500",0.51,Commercial,3,Condo
+2100427,2021,Naugatuck,58,86 WOODLAND STREET,"$89,160","$185,000",0.48,Vacant Land,1,Single Family
+2100132,2021,New Fairfield,69,14 FAIR LN,"$119,600","$245,845",0.49,Residential,2,Single Family
+2100599,2021,Naugatuck,58,18 BRIDGE STREET 1-J,"$30,240","$102,000",0.3,Commercial,3,Condo
+212051,2021,Bridgeport,45,1058 WADE ST,"$127,410","$250,000",0.51,Commercial,3,Single Family
+21567,2021,Farmington,23,22 RED STONE WAY 56,"$140,240","$265,100",0.53,Commercial,3,Condo
+210258,2021,Ledyard,68,2 PALMER DR,"$176,050","$332,500",0.53,Vacant Land,1,Single Family
+21363,2021,Darien,7,16 HALF MILE ROAD,"$1,489,040","$3,750,000",0.4,Residential,2,Single Family
+2100282,2021,Madison,36,19 MIDDLE BEACH RD,"$816,200","$2,650,000",0.31,Residential,2,Single Family
+211146,2021,New Britain,56,127 ELAM ST,"$87,010","$205,500",0.42,Residential,2,Single Family
+211451,2021,Danbury,31,11 E GATE RD,"$250,800","$511,000",0.49,Vacant Land,1,Single Family
+210237,2021,Fairfield,52,232 OAKWOOD DRIVE,"$338,730","$650,000",0.52,Vacant Land,1,Single Family
+210875,2021,Bristol,9,176 GRIDLEY ST,"$138,460","$355,000",0.39,Commercial,3,Three Family
+210247,2021,Danbury,31,101-103 SOUTH ST #2,"$65,000","$178,000",0.37,Commercial,3,Condo
+210108,2021,New Britain,56,106 BARNES ST,"$99,470","$197,000",0.5,Commercial,3,Single Family
+21000528,2021,Cheshire,15,9 WOODRIDGE CT,"$74,390","$150,000",0.5,Vacant Land,1,Condo
+210153,2021,Glastonbury,34,999 NEIPSIC RD,"$281,600","$460,000",0.61,Commercial,3,Single Family
+210280,2021,Fairfield,52,22 PARTRIDGE LANE,"$302,260","$520,000",0.58,Commercial,3,Single Family
+210227,2021,Killingly,13,18 POTTER ST,"$49,980","$184,000",0.27,Vacant Land,1,Single Family
+210150,2021,Avon,20,18 RIVER VIEW,"$141,270","$257,600",0.55,Commercial,3,Condo
+218438,2021,Middletown,60,5 YELLOW GREEN RD,"$123,020","$255,000",0.48,Vacant Land,1,Single Family
+2100144,2021,New Fairfield,69,4 JOELS DR,"$251,300","$350,000",0.72,Residential,2,Single Family
+21000437,2021,Cheshire,15,105 DEEPWOOD DR,"$137,960","$315,000",0.44,Commercial,3,Single Family
+210459,2021,Danbury,31,42 BRENTWOOD CI,"$260,600","$550,000",0.47,Vacant Land,1,Condo
+210251,2021,Bloomfield,6,134 THISTLE POND DRIVE,"$172,760","$357,500",0.48,Residential,2,Condo
+210871,2021,Hamden,57,130 VERNON ST,"$151,620","$400,000",0.38,Vacant Land,1,Single Family
+211186,2021,Danbury,31,92 WARRINGTON RN,"$206,600","$513,900",0.4,Vacant Land,1,Condo
+21251,2021,Guilford,21,379 WHITFIELD ST CN2146,"$13,440","$53,500",0.25,Residential,2,Condo
+210298,2021,Killingly,13,17 ORIOLE DR,"$166,380","$300,000",0.55,Commercial,3,Condo
+210741,2021,Hamden,57,4 DANTE PL,"$123,130","$42,500",2.9,Residential,2,Single Family
+211015,2021,Bristol,9,31 EBERT RD,"$109,760","$51,752",2.12,Residential,2,Single Family
+210592,2021,Bridgeport,45,527 WILLIAM ST,"$144,680","$299,000",0.48,Commercial,3,Two Family
+212025,2021,Bridgeport,45,205 MARION #207,"$178,520","$490,000",0.36,Commercial,3,Two Family
+211640,2021,Bridgeport,45,975 THORME ST,"$157,990","$430,000",0.37,Vacant Land,1,Single Family
+210239,2021,Glastonbury,34,1034 HEBRON AVE,"$140,700","$325,000",0.43,Vacant Land,1,Single Family
+210613,2021,Glastonbury,34,23 CROSSROADS LN,"$146,700","$380,000",0.39,Residential,2,Condo
+210774,2021,Bridgeport,45,463 CONNECTICUT AVE #465,"$107,421","$212,000",0.51,Commercial,3,Three Family
+211960,2021,Bridgeport,45,50 TREMONT AVE,"$181,790","$470,000",0.39,Commercial,3,Two Family
+2100196,2021,Naugatuck,58,10 THUNDERBIRD DRIVE,"$14,340","$10,000",1.43,Commercial,3,Single Family
+210273,2021,Mansfield,41,11 GRANDVIEW CIR,"$35,700","$80,000",0.45,Vacant Land,1,Single Family
+210134,2021,Bridgeport,45,127 KENNEDY DR,"$70,850","$129,000",0.55,Vacant Land,1,Condo
+211529,2021,Danbury,31,42 MIRY BROOK RD 23,"$5,300","$29,000",0.18,Commercial,3,Single Family
+210838,2021,Hamden,57,761 WEST WOODS RD,"$173,740","$415,000",0.42,Residential,2,Single Family
+210318,2021,New Canaan,66,32 OAK GROVE PL,"$543,200","$1,475,000",0.37,Vacant Land,1,Two Family
+21105,2021,Guilford,21,28 WAUWINET CT,"$49,620","$95,000",0.52,Commercial,3,Condo
+21144,2021,Bethel,28,15 RAVENCREST DRIVE,"$339,290","$660,000",0.51,Vacant Land,1,Single Family
+210197,2021,Fairfield,52,125 VESPER STREET,"$264,320","$334,000",0.79,Commercial,3,Single Family
+210160,2021,Fairfield,52,51 TAQUOSHE PLACE,"$494,340","$1,250,000",0.4,Residential,2,Single Family
+210577,2021,Bridgeport,45,3250 FAIRFIELD AVE #205,"$113,340","$235,000",0.48,Commercial,3,Condo
+210923,2021,Norwich,72,5 ROBBINS CT,"$106,400","$175,000",0.61,Residential,2,Two Family
+210145,2021,Avon,20,390 COUNTRY CLUB ROAD,"$383,500","$690,000",0.56,Commercial,3,Single Family
+2100668,2021,Naugatuck,58,246 MAY ST,"$118,550","$255,000",0.46,Residential,2,Single Family
+210275,2021,Bristol,9,343 PARK ST,"$101,980","$157,500",0.65,Commercial,3,Two Family
+210004,2021,New Fairfield,69,104 LAKE DR S,"$645,700","$1,600,000",0.4,Commercial,3,Single Family
+210395,2021,Avon,20,236 WATERVILLE ROAD,"$169,510","$300,000",0.56,Vacant Land,1,Single Family
+21000048,2021,Cheshire,15,401 S MERIDEN RD,"$284,350","$432,000",0.66,Residential,2,Single Family
+211726,2021,Bridgeport,45,56 PARK TER #58,"$168,480","$376,000",0.45,Residential,2,Three Family
+210176,2021,Killingly,13,60 SCHOOL ST,"$101,990","$196,020",0.52,Vacant Land,1,Two Family
+211225,2021,Bristol,9,391 FALL MOUNTAIN RD,"$93,030","$200,000",0.47,Commercial,3,Single Family
+210562,2021,New Britain,56,15-19 PROSPECT ST,"$26,110","$50,000",0.52,Vacant Land,1,Condo
+21201,2021,Bethel,28,5 LAURA LANE,"$108,010","$285,000",0.38,Commercial,3,Condo
+210041,2021,Bristol,9,290 RAMBLER ST,"$121,100","$250,000",0.48,Commercial,3,Single Family
+211344,2021,Danbury,31,12-16 SCUPPO RD C-7,"$69,400","$175,000",0.4,Residential,2,Condo
+210691,2021,Hamden,57,56 REYNA RD,"$121,660","$174,000",0.7,Vacant Land,1,Single Family
+210561,2021,Bristol,9,76 OSULLIVAN DRIVE,"$131,320","$245,000",0.54,Commercial,3,Single Family
+211363,2021,Bridgeport,45,21 WOOD AVE,"$124,670","$150,000",0.83,Commercial,3,Single Family
+2121020,2021,Ansonia,26,2 BEHRLE DR,"$132,100","$288,500",0.46,Residential,2,Single Family
+210124,2021,Mansfield,41,33 PINEWOODS LN,"$131,000","$235,000",0.56,Commercial,3,Single Family
+211519,2021,Danbury,31,18 PAUL ST,"$127,600","$355,000",0.36,Vacant Land,1,Single Family
+210588,2021,Bridgeport,45,401 BREWSTER AVE,"$167,435","$285,000",0.59,Residential,2,Single Family
+210136,2021,Derby,46,116-120 HAWTHORNE AVE,"$133,140","$421,000",0.32,Commercial,3,Three Family
+210178,2021,Clinton,64,9 GRAYLEDGE DR,"$189,100","$160,000",1.18,Commercial,3,Single Family
+211060,2021,Bridgeport,45,116 MERRIAM ST,"$97,480","$291,667",0.33,Commercial,3,Three Family
+210601,2021,Fairfield,52,924 CEDAR ROAD,"$724,710","$1,750,000",0.41,Vacant Land,1,Single Family
+210221,2021,Hamden,57,85 ARCH ST,"$124,880","$250,000",0.5,Residential,2,Two Family
+211021,2021,Danbury,31,73 WARRINGTON RN,"$304,800","$680,000",0.45,Residential,2,Condo
+211318,2021,Bristol,9,"10 EBERT DR., #52","$78,890","$197,000",0.4,Residential,2,Condo
+2102049,2021,Stamford,73,91 STRAWBERRY HILL AVE #224,"$130,350","$145,000",0.9,Vacant Land,1,Condo
+2101412,2021,Stamford,73,11 BERTMOR DRIVE,"$389,170","$775,000",0.5,Commercial,3,Single Family
+21116,2021,Darien,7,9 CLUBHOUSE CIRCLE,"$869,820","$1,507,500",0.58,Commercial,3,Single Family
+2100650,2021,Naugatuck,58,156 WILDWOOD CIR,"$145,620","$370,000",0.39,Residential,2,Single Family
+210828,2021,Bridgeport,45,252 DOVER ST,"$80,577","$165,000",0.49,Residential,2,Single Family
+210234,2021,Glastonbury,34,32-A1 WILLIEB ST,"$64,500","$133,000",0.48,Vacant Land,1,Condo
+2100025,2021,Hampton,74,653 PUDDING HILL RD,"$123,410","$356,500",0.35,Residential,2,Single Family
+21371,2021,Bethel,28,3 EAGLE ROCK HILL,"$118,440","$325,000",0.36,Residential,2,Condo
+2100266,2021,New Fairfield,69,3 DARIEN RD,"$185,200","$220,000",0.84,Commercial,3,Single Family
+21164,2021,Darien,7,58 ALLWOOD RD,"$1,819,300","$3,677,500",0.49,Vacant Land,1,Single Family
+210333,2021,Berlin,24,151 SPRUCE BROOK RD,"$185,300","$167,500",1.11,Vacant Land,1,Single Family
+210905,2021,Danbury,31,12 MOORLAND DR,"$272,000","$640,000",0.42,Vacant Land,1,Condo
+212089,2021,Bridgeport,45,371 WOOD AVE #373,"$187,014","$375,000",0.5,Vacant Land,1,Three Family
+210125,2021,Litchfield,59,88 WIGWAM RD,"$326,280","$1,383,200",0.24,Vacant Land,1,Single Family
+210142,2021,Ellington,63,6 PINE DR,"$212,350","$250,000",0.85,Vacant Land,1,Single Family
+210052,2021,Morris,75,63 KENYON RD,"$296,220","$675,000",0.44,Residential,2,Single Family
+210013,2021,Danbury,31,12 BOULEVARD 24-142,"$193,300","$410,100",0.47,Vacant Land,1,Condo
+211036,2021,Hamden,57,6 SUNNYSIDE AVE,"$142,030","$299,900",0.47,Vacant Land,1,Single Family
+21241,2021,Monroe,67,3 SHERWOOD PL,"$177,900","$412,609",0.43,Commercial,3,Single Family
+21066,2021,Haddam,55,14 BARTMAN RD,"$213,350","$382,000",0.56,Residential,2,Single Family
+210772,2021,Fairfield,52,255 ALDEN STREET,"$359,380","$600,000",0.6,Commercial,3,Single Family
+210099,2021,Brooklyn,71,116 WINDHAM RD,"$226,400","$450,000",0.5,Residential,2,Single Family
+210287,2021,Bridgeport,45,2600 PARK AVE UNIT 6C,"$59,670","$65,000",0.92,Commercial,3,Condo
+21011,2021,Guilford,21,255 DURHAM RD,"$218,740","$340,000",0.64,Vacant Land,1,Single Family
+210196,2021,Ledyard,68,10 JESSICA LN,"$177,800","$281,703",0.63,Residential,2,Single Family
+211638,2021,Bridgeport,45,325 LAFAYETTE ST UNIT #1204,"$51,510","$150,000",0.34,Residential,2,Condo
+21203,2021,Darien,7,599 MIDDLESEX ROAD,"$2,309,860","$2,062,500",1.12,Residential,2,Single Family
+211865,2021,Bridgeport,45,106 VIRGINIA AVE,"$46,080","$132,000",0.35,Commercial,3,Condo
+21272,2021,Guilford,21,137 OLD QUARRY RD,"$1,260,000","$1,600,000",0.79,Residential,2,Single Family
+210971,2021,Fairfield,52,61 TWIN LANES ROAD,"$635,600","$1,550,000",0.41,Commercial,3,Single Family
+211377,2021,Bristol,9,30 ROSEMARY LN,"$161,980","$320,000",0.51,Vacant Land,1,Single Family
+210336,2021,Branford,11,14 LANPHIERS COVE CAMP,"$68,400","$208,100",0.33,Residential,2,Single Family
+210106,2021,Litchfield,59,20 FLOREN POND RD,"$227,170","$600,000",0.38,Commercial,3,Single Family
+210327,2021,Glastonbury,34,117 THREE MILE RD,"$195,100","$412,000",0.47,Commercial,3,Single Family
+210170,2021,Branford,11,2M THIMBLE ISLE,"$44,600","$115,000",0.39,Commercial,3,Condo
+21113,2021,Bethel,28,505 COPPER SQUARE DRIVE,"$213,570","$379,900",0.56,Commercial,3,Condo
+21394,2021,Darien,7,55 HOLLY LANE,"$938,070","$1,810,000",0.52,Vacant Land,1,Single Family
+210816,2021,New Britain,56,38 WILSON ST,"$104,090","$284,900",0.37,Vacant Land,1,Three Family
+21000270,2021,Cheshire,15,150 BRADFORD RD,"$152,730","$317,500",0.48,Residential,2,Single Family
+210571,2021,Branford,11,183 MAPLE ST,"$169,300","$370,000",0.46,Residential,2,Single Family
+210283,2021,Ellington,63,7 HEATHER RD,"$130,170","$136,000",0.96,Vacant Land,1,Single Family
+210342,2021,Cromwell,44,9 NORDLAND AVENUE,"$148,330","$265,000",0.56,Commercial,3,Single Family
+210081,2021,Coventry,48,24 WALNUT TR,"$99,600","$195,000",0.51,Residential,2,Single Family
+2100021,2021,Marlborough,62,102 PETTENGILL RD,"$159,850","$315,000",0.51,Residential,2,Single Family
+211433,2021,Danbury,31,21 EAST CROSS TR,"$18,200","$630,768",0.03,Commercial,3,Condo
+210248,2021,Derby,46,10 BELLEVIEW DR,"$173,460","$370,000",0.47,Commercial,3,Single Family
+2100027,2021,Canaan,35,102 JOHNSON RD,"$345,400","$755,000",0.46,Commercial,3,Single Family
+218178,2021,Middletown,60,85 LORELEI CIRCLE,"$170,410","$340,000",0.5,Residential,2,Single Family
+210132,2021,Berlin,24,59 WALDEN CT,"$274,800","$550,000",0.5,Vacant Land,1,Single Family
+210780,2021,Bridgeport,45,2995 MADISON AVE UNIT #23,"$78,810","$152,000",0.52,Residential,2,Single Family
+210286,2021,Clinton,64,2 BLAKE AVE,"$366,637","$835,000",0.44,Commercial,3,Single Family
+21000319,2021,Cheshire,15,498 OAK AVE U28,"$55,930","$100,000",0.56,Commercial,3,Condo
+211056,2021,Hamden,57,151 THORNTON ST,"$173,390","$341,000",0.51,Vacant Land,1,Single Family
+210316,2021,Avon,20,187 WEST AVON ROAD,"$278,710","$500,000",0.56,Residential,2,Single Family
+210681,2021,Glastonbury,34,117 CAMBRIDGE DR,"$179,300","$320,000",0.56,Vacant Land,1,Single Family
+210390,2021,Ledyard,68,38 SEABURY AVE,"$236,250","$396,000",0.6,Vacant Land,1,Single Family
+211171,2021,New Britain,56,70 RONALD RD,"$72,100","$139,900",0.52,Residential,2,Single Family
+210173,2021,Litchfield,59,40 MURPHY RD,"$134,230","$330,000",0.41,Commercial,3,Single Family
+210174,2021,New Canaan,66,34 HERITAGE HILL RD-UNIT C,"$569,520","$940,000",0.61,Residential,2,Condo
+210018,2021,Bethany,38,530 BETHMOUR RD,"$228,780","$375,000",0.61,Commercial,3,Single Family
+2100123,2021,Madison,36,139 WILDWOOD AVE,"$195,400","$363,000",0.54,Commercial,3,Single Family
+210542,2021,Fairfield,52,149 JUDSON ROAD,"$536,270","$960,000",0.56,Commercial,3,Single Family
+210975,2021,Bristol,9,410 EMMET ST GARAGE G-Q,$0,"$26,000",0.0,Residential,2,Condo
+210177,2021,Bloomfield,6,30 BILTMORE PARK,"$159,460","$380,000",0.42,Residential,2,Condo
+211128,2021,Hamden,57,31 FAWN RIDGE DR,"$141,400","$312,000",0.45,Residential,2,Single Family
+218268,2021,Middletown,60,452 WASHINGTON ST,"$65,760","$170,000",0.39,Residential,2,Single Family
+211561,2021,Bridgeport,45,315 WILLIAM ST,"$179,039","$425,000",0.42,Vacant Land,1,Single Family
+210398,2021,Fairfield,52,108 COLONESE ROAD,"$303,870","$475,000",0.64,Commercial,3,Single Family
+210594,2021,New Britain,56,41 RIDGEWOOD ST,"$122,290","$415,000",0.29,Residential,2,Three Family
+210193,2021,Cromwell,44,45 COLES ROAD,"$150,850","$351,000",0.43,Commercial,3,Single Family
+21000009,2021,Colebrook,76,17 PROCK HILL ROAD,"$241,600","$340,000",0.71,Residential,2,Single Family
+210011,2021,Bolton,77,68 HIGH RIDGE FARM LANE,"$475,100","$620,000",0.77,Residential,2,Single Family
+218340,2021,Middletown,60,609 RIDGEWOOD RD,"$200,770","$445,000",0.45,Commercial,3,Single Family
+2121211,2021,Ansonia,26,2 MARY ST,"$113,400","$72,000",1.58,Vacant Land,1,Two Family
+210389,2021,Hamden,57,2692 DIXWELL AVE,"$126,350","$260,000",0.49,Vacant Land,1,Single Family
+21069,2021,Guilford,21,85 MICHAEL DR,"$183,550","$188,000",0.98,Residential,2,Single Family
+210047,2021,Preston,78,153A ROUTE 12,"$151,200","$290,000",0.52,Residential,2,Single Family
+210392,2021,New Canaan,66,228 NORTH WILTON RD,"$711,060","$1,650,000",0.43,Residential,2,Single Family
+2102154,2021,Stamford,73,49 HINCKLEY AVENUE,"$391,700","$740,000",0.53,Commercial,3,Two Family
+211302,2021,Hamden,57,148 PUTNAM AVE,"$124,390","$250,000",0.5,Vacant Land,1,Single Family
+218337,2021,Middletown,60,190 CARRIAGE CROSSING,"$72,190","$165,000",0.44,Commercial,3,Condo
+210505,2021,Fairfield,52,89 FIELD POINT DRIVE,"$520,170","$965,000",0.54,Commercial,3,Condo
+210002,2021,New Britain,56,2 LINCOLN CT,"$97,370","$245,000",0.4,Vacant Land,1,Two Family
+211588,2021,Bridgeport,45,386 HUNTINGTON RD #388,"$143,611","$315,000",0.46,Vacant Land,1,Three Family
+211526,2021,Bridgeport,45,80 CARTRIGHT ST #3L,"$34,700","$99,000",0.35,Vacant Land,1,Condo
+210187,2021,Bristol,9,25 ROGERS RD,"$177,800","$292,000",0.61,Vacant Land,1,Single Family
+211796,2021,Bridgeport,45,25 CARTRIGHT ST UNIT #4B,"$58,740","$140,000",0.42,Residential,2,Condo
+210955,2021,Danbury,31,8 SIXTH ST,"$169,400","$345,000",0.49,Residential,2,Single Family
+211718,2021,Bridgeport,45,185 WOODROW AVE,"$230,380","$385,000",0.6,Vacant Land,1,Single Family
+211195,2021,New Britain,56,26 SHUTTLE MEADOW AVE,"$77,070","$125,000",0.62,Vacant Land,1,Single Family
+210012,2021,Clinton,64,56 LIBERTY ST,"$154,100","$300,000",0.51,Vacant Land,1,Single Family
+211125,2021,Bridgeport,45,887 PLATTST,"$137,530","$125,000",1.1,Vacant Land,1,Single Family
+210296,2021,Berlin,24,355 RESERVOIR RD,"$172,300","$240,000",0.72,Residential,2,Single Family
+21064,2021,Monroe,67,16 HERITAGE RD,"$180,100","$400,000",0.45,Commercial,3,Single Family
+21068,2021,Barkhamsted,79,452 & 453 EAST RIVER RD,"$143,150","$250,000",0.57,Commercial,3,Single Family
+210616,2021,Bridgeport,45,3250 FAIRFIELD AVE UNIT #309,"$113,340","$280,000",0.4,Residential,2,Condo
+210086,2021,New Britain,56,36 SUNRISE AVE,"$105,910","$250,000",0.42,Commercial,3,Two Family
+210682,2021,Middletown,60,1705 COUNTRY CLUB RD,"$257,530","$450,000",0.57,Vacant Land,1,Single Family
+2121216,2021,Ansonia,26,37 BERKSHIRE RD,"$181,600","$410,000",0.44,Commercial,3,Single Family
+210022,2021,New Britain,56,324 BARBOUR RD,"$143,430","$327,000",0.44,Residential,2,Single Family
+210499,2021,Bristol,9,7-9 WILLOUGHBY STREET,"$87,780","$243,000",0.36,Residential,2,Two Family
+2100009,2021,Naugatuck,58,15 BALDWIN STREET,"$113,290","$200,000",0.57,Residential,2,Two Family
+210244,2021,New Canaan,66,97 FOREST ST-UNIT B,"$665,000","$1,395,000",0.48,Residential,2,Condo
+210671,2021,Fairfield,52,276 LOCKWOOD ROAD,"$348,250","$820,000",0.42,Residential,2,Single Family
+211358,2021,Danbury,31,11 MANNION LA 28,"$133,400","$360,000",0.37,Residential,2,Condo
+2121234,2021,Ansonia,26,14 N COE LA,"$108,800","$170,000",0.64,Commercial,3,Single Family
+211578,2021,Bridgeport,45,230 LEWIS ST,"$101,210","$265,000",0.38,Residential,2,Single Family
+210009,2021,Berlin,24,319 NEW BRITAIN ROAD #109,"$63,100","$134,000",0.47,Commercial,3,Condo
+21000054,2021,Cheshire,15,50 LANSDOWNE LANE,"$261,190","$530,000",0.49,Vacant Land,1,Single Family
+210104,2021,East Hampton,80,34 LONG HILL RD,"$152,470","$330,000",0.46,Vacant Land,1,Single Family
+211079,2021,Bristol,9,137 JUDD ST,"$146,160","$238,000",0.61,Residential,2,Single Family
+21174,2021,Burlington,19,61 SPIELMAN HWY,"$136,990","$299,900",0.46,Vacant Land,1,Single Family
+210467,2021,Glastonbury,34,180 SHODDY MILL RD,"$243,200","$420,000",0.58,Vacant Land,1,Single Family
+210109,2021,Essex,40,34 FORDHAM RD,"$303,800","$791,000",0.38,Residential,2,Single Family
+211006,2021,Danbury,31,1 BEAVER BROOK RD 1-52,"$74,200","$270,000",0.27,Residential,2,Condo
+210164,2021,Litchfield,59,54 LOOKING GLASS HILL RD,"$293,270","$825,000",0.36,Commercial,3,Single Family
+21274,2021,Farmington,23,1431 FARMINGTON AV,"$102,040","$120,000",0.85,Residential,2,Condo
+210618,2021,Norwich,72,114 SHERATON LN,"$37,400","$100,000",0.37,Commercial,3,Condo
+21347,2021,Darien,7,6 BISHOPS GATE,"$1,498,350","$2,725,000",0.55,Residential,2,Single Family
+210680,2021,New Britain,56,48 WOODLAND ST,"$102,550","$315,000",0.33,Vacant Land,1,Three Family
+2100249,2021,Naugatuck,58,1081 NEW HAVEN RD 5H,"$54,710","$105,000",0.52,Commercial,3,Condo
+210524,2021,Danbury,31,191 WESTVILLE AV,"$186,000","$425,000",0.44,Residential,2,Single Family
+21000155,2021,Granby,81,13 CRANBERRY LN,"$176,260","$399,900",0.44,Vacant Land,1,Single Family
+211598,2021,Bridgeport,45,439 NEWFIELD AVE #445,"$187,820","$445,000",0.42,Vacant Land,1,Four Family
+210635,2021,Danbury,31,262 GREAT PLAIN RD,"$144,200","$365,000",0.4,Commercial,3,Two Family
+210473,2021,New London,82,85 WEST ST,"$75,110","$205,000",0.37,Residential,2,Single Family
+210190,2021,Cromwell,44,1221 CROMWELL HILLS DRIVE,"$60,270","$135,000",0.45,Commercial,3,Condo
+21373,2021,Farmington,23,113 TUNXIS VILLAGE,"$191,430","$355,000",0.54,Residential,2,Condo
+210330,2021,Fairfield,52,1353 MILL PLAIN ROAD,"$272,580","$450,000",0.61,Vacant Land,1,Single Family
+210370,2021,Ledyard,68,12 KINGS HWY,"$177,730","$280,000",0.63,Vacant Land,1,Single Family
+210312,2021,Glastonbury,34,1662 NEW LONDON TPKE,"$173,200","$370,000",0.47,Residential,2,Single Family
+210272,2021,Branford,11,135 FLORENCE RD 2C,"$89,000","$154,000",0.58,Commercial,3,Condo
+210534,2021,Branford,11,F72 RIVERVIEW CROSSING,"$75,000","$148,000",0.51,Residential,2,Condo
+210432,2021,Fairfield,52,225 PAPERMILL LANE,"$333,760","$530,000",0.63,Vacant Land,1,Single Family
+21546,2021,Farmington,23,58 MALLARD DR 85D,"$100,070","$208,500",0.48,Residential,2,Condo
+210334,2021,Bristol,9,164 SOUTHDOWN DR,"$252,210","$550,000",0.46,Residential,2,Single Family
+210884,2021,Hamden,57,84 BROADWAY,"$93,380","$120,000",0.78,Commercial,3,Single Family
+210434,2021,Killingly,13,1108 NORTH RD,"$221,970","$565,000",0.39,Residential,2,Single Family
+210442,2021,Bridgeport,45,78 TARINELLI CIRCLE,"$154,630","$215,000",0.72,Vacant Land,1,Single Family
+210341,2021,Bloomfield,6,4 TRINITY CIR,"$138,740","$294,000",0.47,Vacant Land,1,Single Family
+210066,2021,Brooklyn,71,349 DAY ST,"$207,300","$389,900",0.53,Residential,2,Single Family
+21232,2021,Derby,46,17 KINDLE LN,"$133,000","$370,000",0.36,Commercial,3,Single Family
+211072,2021,New Britain,56,22 EASTWICK RD,"$84,070","$208,000",0.4,Vacant Land,1,Single Family
+21178,2021,East Haddam,49,60 ALGER RD,"$123,690","$193,000",0.64,Residential,2,Single Family
+21159,2021,Bethel,28,14 GREAT HILL ROAD,"$279,790","$642,000",0.44,Vacant Land,1,Condo
+21034,2021,Farmington,23,105 KNOLLWOOD RD,"$224,440","$426,300",0.53,Residential,2,Single Family
+2100112,2021,Marlborough,62,17 DEER RUN,"$202,500","$220,000",0.92,Commercial,3,Single Family
+21000530,2021,Cheshire,15,486 OAK AVE U51,"$55,930","$127,000",0.44,Commercial,3,Condo
+21047,2021,East Haddam,49,6 PETTICOAT LANE,"$212,390","$440,000",0.48,Residential,2,Single Family
+211570,2021,Bridgeport,45,674 BURNSFORD AVE,"$143,970","$290,000",0.5,Vacant Land,1,Single Family
+2100048,2021,Naugatuck,58,1083 ANDREW MOUNTAIN ROAD,"$200,460","$390,000",0.51,Vacant Land,1,Single Family
+210003,2021,Coventry,48,119 WEST SHORE DR,"$330,900","$375,000",0.88,Commercial,3,Single Family
+210065,2021,Bridgeport,45,31 REMINGTON ST UNIT #B4,"$26,600","$52,000",0.51,Commercial,3,Condo
+210382,2021,Branford,11,123 CEDAR ST,"$124,900","$260,000",0.48,Vacant Land,1,Single Family
+210581,2021,Fairfield,52,118 BERWICK AVENUE,"$309,120","$525,000",0.59,Vacant Land,1,Condo
+210083,2021,New Fairfield,69,18 HERITAGE ISLAND RD,"$1,847,300","$2,000,000",0.92,Vacant Land,1,Single Family
+210335,2021,Bloomfield,6,6 MALONE DR,"$98,770","$195,000",0.51,Commercial,3,Single Family
+210113,2021,East Windsor,3,1 ASPEN DR,"$141,310","$581,317",0.24,Vacant Land,1,Single Family
+210225,2021,Bridgeport,45,597 HUNTINGTON TPKE,"$183,181","$350,000",0.52,Commercial,3,Single Family
+21206,2021,Burlington,19,32 NELSON DR,"$230,860","$525,000",0.44,Residential,2,Single Family
+210094,2021,Berlin,24,41 WALDEN CT,"$278,200","$484,900",0.57,Commercial,3,Single Family
+21237,2021,Guilford,21,194 RIVER ST,"$303,120","$495,000",0.61,Residential,2,Single Family
+211045,2021,Danbury,31,160 SHELTER ROCK RD 8,"$113,000","$278,000",0.41,Commercial,3,Condo
+210535,2021,New Britain,56,160-F BRITTANY FARMS,"$96,040","$209,000",0.46,Commercial,3,Condo
+2100209,2021,Naugatuck,58,39 HARLOW ST,"$128,590","$260,000",0.49,Vacant Land,1,Single Family
+21063,2021,Bethel,28,16 LOCKWOOD CIRCLE,"$342,370","$573,500",0.6,Vacant Land,1,Condo
+21051,2021,Chester,83,55 MAPLE ST,"$204,400","$420,000",0.49,Residential,2,Single Family
+210042,2021,Goshen,84,24 STONEBRIDGE LANE,"$256,200","$580,000",0.44,Vacant Land,1,Single Family
+210380,2021,New Britain,56,86 MAPLEHURST AVE,"$128,170","$150,000",0.85,Commercial,3,Single Family
+210074,2021,Branford,11,7 TOOLE DR,"$172,200","$307,500",0.56,Residential,2,Single Family
+210270,2021,New Britain,56,137 STRATFORD RD,"$115,220","$285,000",0.4,Commercial,3,Single Family
+2100154,2021,Stamford,73,99 OLD BARN ROAD WEST,"$292,910","$530,000",0.55,Commercial,3,Single Family
