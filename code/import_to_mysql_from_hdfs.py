@@ -7,9 +7,9 @@ from sqlalchemy import text
 # HDFS and MySQL connection details
 hdfs_host = 'master-node'  # e.g., 'localhost'
 hdfs_port = 9870
-mysql_host = '192.168.64.11'
+mysql_host = 'Local IP'
 mysql_user = 'root'
-mysql_password = '9084Ubuntu#'
+mysql_password = 'Your MySql Password'
 mysql_db = 'PropertyData'
 mysql_port = 3306
 
