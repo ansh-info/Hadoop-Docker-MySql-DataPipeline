@@ -8,7 +8,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Scope:** Collect data through web scraping, store in HDFS, process using Hadoop, and analyze with MySQL.
 
 ## Video Demonstration
-[Watxh the Video(Part - 1)](/video/Video1.mp4)
+[Watxh the Video(Part - 1)](/video/video1.mp4)
 
 ## Setup and Environment
 ### Virtual Machines Setup
@@ -35,7 +35,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 ![Data Collection Process](/images/collection.png)
 
 ## Video Demonstration
-[Watxh the Video(Part - 2)](/video/Video1.mp4)
+[Watxh the Video(Part - 2)](/video/video2.mp4)
 
 ## Data Storage in HDFS
 - **Step:** `cd /spark cluster` folder to use A ready to go Big Data cluster (Hadoop + Hadoop Streaming + Spark + PySpark + Jupyter Notebook) with Docker and Docker Swarm! 
