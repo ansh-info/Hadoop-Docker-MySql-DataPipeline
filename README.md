@@ -74,5 +74,5 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 ![Business Insights](/images/crimessolved.png)
 
 ## Acknowledgements
-### A special thank you to [binhvd](https://github.com/binhvd) for providing the ready-to-go Spark cluster image used in this project.
+- **Note:** A special thank you to [binhvd](https://github.com/binhvd) for providing the ready-to-go Spark cluster image used in this project.
 ---
