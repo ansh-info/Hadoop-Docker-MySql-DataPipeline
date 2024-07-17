@@ -28,7 +28,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Step:** Installed Selenium and Chrome WebDriver.
 - **Action:** Developed scripts to scrape Property and Locality data from various websites.
 
-### Data Collection Process
+### Image of Collection Process
 ![Data Collection Process](/images/collection.png)
 
 ## Data Storage in HDFS
@@ -41,17 +41,17 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Step:** Developed and executed Hadoop jobs for data cleaning and transformation.
 - **Action:** Used MapReduce for distributed processing.
 
-### Data Processing Process
+### Image of Processing Process
 ![Data Processing Process](/images/dataprocessing.png)
 
 ## Failure Test
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
 - **Action:** Verified system resilience and fault tolerance.
 
-### Failure Test Process - node down
+### Image of Failure Test Process - node down
 ![Failure Test Process - node down](/images/failuretest.png)
 
-### Failure Test Process - ingestion to mysql
+### Image of Failure Test Process - ingestion to mysql
 ![Failure Test Process - ingestion to mysql](/images/ingestion.png)
 
 ## Data Ingestion into MySQL
@@ -67,6 +67,6 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Step:** Developed SQL queries to extract insights from the database.
 - **Action:** Generated graphs and tables to present the results.
 
-### Business Insights Visualization
+### Image of Business Insights Visualization
 ![Business Insights](/images/crimessolved.png)
 ---
