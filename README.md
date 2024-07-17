@@ -7,9 +7,6 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Objective:** Analyze Property and Locality data to derive meaningful insights.
 - **Scope:** Collect data through web scraping, store in HDFS, process using Hadoop, and analyze with MySQL.
 
-## Video Demonstration
-[Watch the Video Part - 1](/video/video1.mp4)
-
 ## Setup and Environment
 ### Virtual Machines Setup
 - **Step:** Installed Ubuntu on VirtualBox for each VM.
@@ -33,9 +30,6 @@ This project involves setting up a data engineering pipeline to collect, store, 
 
 ### Data Collection Process
 ![Data Collection Process](/images/collection.png)
-
-## Video Demonstration
-[Watxh the Video Part - 2](/video/video2.mp4)
 
 ## Data Storage in HDFS
 - **Step:** `cd /spark cluster` folder to use A ready to go Big Data cluster (Hadoop + Hadoop Streaming + Spark + PySpark + Jupyter Notebook) with Docker and Docker Swarm! 
