@@ -8,7 +8,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Scope:** Collect data through web scraping, store in HDFS, process using Hadoop, and analyze with MySQL.
 
 ## Video Demonstration
-[Watxh the Video(Part - 1)](/video/video1.mp4)
+[Watxh the Video(Part - 1)](/video/video1.mov)
 
 ## Setup and Environment
 ### Virtual Machines Setup
