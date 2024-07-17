@@ -33,7 +33,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 
 ## Data Storage in HDFS
 - **Step:** `cd spark cluster` folder to use, A ready to go Big Data cluster (Hadoop + Hadoop Streaming + Spark + PySpark + Jupyter Notebook) with Docker and Docker Swarm! 
-Configured HDFS on the Hadoop cluster provided by `Prof. Dr.-Ing. [binhvd](https://github.com/binhvd).` Check the README.md file in the spark cluster folder to begin with the setup process`
+Configured HDFS on the Hadoop cluster provided by `Prof. Dr.-Ing.` [binhvd](https://github.com/binhvd). Check the README.md file in the spark cluster folder to begin with the setup process`
 - **Action:** Stored scraped data in HDFS with appropriate partitioning and replication.
 
 ### Image of Data Storage in HDFS Process
