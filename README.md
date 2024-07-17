@@ -111,6 +111,6 @@ This project involves setting up a data engineering pipeline to collect, store, 
   - **Solution:** Conducted thorough data analysis and used SQL queries to extract relevant data.
 
 ## Video Demonstration
-[![Watch the video]](/video/Video.mov)
+[Watch the video](video/Video.mov)
 
 ---
