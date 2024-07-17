@@ -44,7 +44,7 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Step:** Developed and executed Hadoop jobs for data cleaning and transformation.
 - **Action:** Used MapReduce for distributed processing.
 
-### Image of Processing Process
+### Image of Data Processing Process
 ![Data Processing Process](/images/dataprocessing.png)
 
 ## Failure Test
