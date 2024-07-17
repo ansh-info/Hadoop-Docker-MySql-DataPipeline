@@ -48,10 +48,10 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
 - **Action:** Verified system resilience and fault tolerance.
 
-### Failure Test Process
+### Failure Test Process - node down
 ![Failure Test Process - node down](/images/failuretest.png)
 
-### Failure Test Process
+### Failure Test Process - ingestion to mysql
 ![Failure Test Process - ingestion to mysql](/images/ingestion.png)
 
 ## Data Ingestion into MySQL
