@@ -21,7 +21,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Action:** Used Docker Swarm for container orchestration.
 
 ### Image of Setup Process
-![Setup Process](/images/setup.png)
+![Setup Process - hidden name for privacy concern](/images/setup.png)
 
 ## Data Collection
 ### Web Scraping with Selenium
@@ -41,12 +41,18 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Step:** Developed and executed Hadoop jobs for data cleaning and transformation.
 - **Action:** Used MapReduce for distributed processing.
 
+## Data Processing Process
+![Data Processing Process](/images/dataprocessing.png)
+
 ## Failure Test
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
 - **Action:** Verified system resilience and fault tolerance.
 
 ### Failure Test Process
-![Data Collection Process](/images/failuretest.png)
+![Failure Test Process - node down](/images/failuretest.png)
+
+### Failure Test Process
+![Failure Test Process - ingestion to mysql](/images/ingestion.png)
 
 ## Data Ingestion into MySQL
 ### Database Design
