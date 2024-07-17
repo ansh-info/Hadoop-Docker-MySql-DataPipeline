@@ -3,23 +3,12 @@
 ## Introduction
 This project involves setting up a data engineering pipeline to collect, store, process, and analyze Property and Locality data using Hadoop, Docker, MySQL, Tailscale, and Selenium.
 
-## Video Demonstration
-[Watch the video](video/Video1.mp4)
-## Video Demonstration
-[Watch the video](video/Video1.mp4)
-
-
 ## Project Overview
 - **Objective:** Analyze Property and Locality data to derive meaningful insights.
 - **Scope:** Collect data through web scraping, store in HDFS, process using Hadoop, and analyze with MySQL.
 
-## Technologies Used
-- `Hadoop`
-- `Docker`
-- `MySQL`
-- `Tailscale`
-- `Selenium`
-- `Python`
+## Video Demonstration
+[Watxh the Video(Part - 1)](/video/Video1.mp4)
 
 ## Setup and Environment
 ### Virtual Machines Setup
@@ -35,7 +24,7 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Action:** Used Docker Swarm for container orchestration.
 
 ### Image of Setup Process
-![Setup Process](path/to/setup_image.png)
+![Setup Process](/images/setup.png)
 
 ## Data Collection
 ### Web Scraping with Selenium
@@ -43,7 +32,10 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Action:** Developed scripts to scrape Property and Locality data from various websites.
 
 ### Data Collection Process
-![Data Collection Process](path/to/data_collection_image.png)
+![Data Collection Process](/images/collection.png)
+
+## Video Demonstration
+[Watxh the Video(Part - 2)](/video/Video1.mp4)
 
 ## Data Storage in HDFS
 - **Step:** Configured HDFS on the Hadoop cluster.
@@ -57,6 +49,9 @@ This project involves setting up a data engineering pipeline to collect, store, 
 ## Failure Test
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
 - **Action:** Verified system resilience and fault tolerance.
+
+### Failure Test Process
+![Data Collection Process](/images/failuretest.png)
 
 ## Data Ingestion into MySQL
 ### Database Design
@@ -72,5 +67,5 @@ This project involves setting up a data engineering pipeline to collect, store, 
 - **Action:** Generated graphs and tables to present the results.
 
 ### Business Insights Visualization
-![Business Insights](path/to/business_insights_image.png)
+![Business Insights](/images/crimessolved.png)
 ---
