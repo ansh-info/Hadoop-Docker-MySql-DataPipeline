@@ -36,13 +36,16 @@ This project involves setting up a data engineering pipeline to collect, store, 
 Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `Check the README.md file in the spark cluster folder to begin with the setup process`
 - **Action:** Stored scraped data in HDFS with appropriate partitioning and replication.
 
+### Image of Data Storage in HDFS Process
+![Data Storage in HDFS Process](/images/dataprocessing.png)
+
 ## Data Processing
 ### Hadoop Job Development
 - **Step:** Developed and executed Hadoop jobs for data cleaning and transformation.
 - **Action:** Used MapReduce for distributed processing.
 
 ### Image of Processing Process
-![Data Processing Process](/images/dataprocessing.png)
+![Data Processing Process](/images/datastorage.png)
 
 ## Failure Test
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
