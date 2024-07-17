@@ -37,7 +37,7 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Action:** Stored scraped data in HDFS with appropriate partitioning and replication.
 
 ### Image of Data Storage in HDFS Process
-![Data Storage in HDFS Process](/images/dataprocessing.png)
+![Data Storage in HDFS Process](/images/datastorage.png)
 
 ## Data Processing
 ### Hadoop Job Development
@@ -45,7 +45,7 @@ Configured HDFS on the Hadoop cluster provided by `https://github.com/binhvd`, `
 - **Action:** Used MapReduce for distributed processing.
 
 ### Image of Processing Process
-![Data Processing Process](/images/datastorage.png)
+![Data Processing Process](/images/dataprocessing.png)
 
 ## Failure Test
 - **Step:** Conducted data read/write operations while intentionally shutting down a worker node.
